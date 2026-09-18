@@ -1,1 +1,1 @@
-# UK-Bank-Financial-Crime-Analytics
+# UK Bank Financial-Crime Analytics
