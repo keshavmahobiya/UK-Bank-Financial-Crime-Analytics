@@ -1,0 +1,41 @@
+analyst_id,team,grade,location_branch_id,annual_salary_gbp
+AN001,KYC Onboarding,Senior Analyst,BR02,55100
+AN002,KYC Onboarding,Senior Analyst,BR02,49100
+AN003,KYC Onboarding,Team Lead,BR03,71300
+AN004,KYC Onboarding,Analyst,BR03,37900
+AN005,KYC Onboarding,Analyst,BR01,39000
+AN006,KYC Onboarding,Senior Analyst,BR03,51800
+AN007,KYC Onboarding,Analyst,BR01,35700
+AN008,KYC Onboarding,Senior Analyst,BR02,53300
+AN009,KYC Onboarding,Senior Analyst,BR03,55900
+AN010,KYC Onboarding,Senior Analyst,BR02,54400
+AN011,KYC Periodic Review,Analyst,BR02,35600
+AN012,KYC Periodic Review,Analyst,BR02,39200
+AN013,KYC Periodic Review,Senior Analyst,BR02,50900
+AN014,KYC Periodic Review,Analyst,BR03,38000
+AN015,KYC Periodic Review,Analyst,BR02,38100
+AN016,KYC Periodic Review,Analyst,BR01,39200
+AN017,Enhanced Due Diligence,Analyst,BR01,44100
+AN018,Enhanced Due Diligence,Analyst,BR03,44900
+AN019,Enhanced Due Diligence,Senior Analyst,BR03,56700
+AN020,Enhanced Due Diligence,Senior Analyst,BR02,55400
+AN021,Enhanced Due Diligence,Analyst,BR03,44600
+AN022,Business Due Diligence,Senior Analyst,BR01,53900
+AN023,Business Due Diligence,Senior Analyst,BR02,52800
+AN024,Business Due Diligence,Analyst,BR02,36000
+AN025,Business Due Diligence,Senior Analyst,BR02,52800
+AN026,Business Due Diligence,Senior Analyst,BR02,53300
+AN027,Screening,Analyst,BR01,37100
+AN028,Screening,Analyst,BR02,37800
+AN029,Screening,Analyst,BR01,40200
+AN030,Screening,Analyst,BR02,35700
+AN031,Screening,Analyst,BR03,39100
+AN032,Screening,Analyst,BR01,39800
+AN033,AML Investigations,Senior Analyst,BR02,61300
+AN034,AML Investigations,Analyst,BR02,39700
+AN035,AML Investigations,Analyst,BR03,42500
+AN036,AML Investigations,Analyst,BR03,42800
+AN037,AML Investigations,Analyst,BR02,42400
+AN038,AML Investigations,Analyst,BR03,41500
+AN039,AML Investigations,Senior Analyst,BR02,54900
+AN040,AML Investigations,Analyst,BR02,45700
