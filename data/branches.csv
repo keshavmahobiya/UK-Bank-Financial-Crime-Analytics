@@ -1,0 +1,11 @@
+branch_id,branch_name,region,headcount
+BR01,London City,London,210
+BR02,Canary Wharf,London,180
+BR03,Manchester,North West,120
+BR04,Birmingham,Midlands,110
+BR05,Leeds,North East,85
+BR06,Glasgow,Scotland,90
+BR07,Edinburgh,Scotland,95
+BR08,Bristol,South West,75
+BR09,Cardiff,Wales,60
+BR10,Belfast,Northern Ireland,55

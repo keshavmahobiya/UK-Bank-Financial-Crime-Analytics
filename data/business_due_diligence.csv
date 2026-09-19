@@ -1,0 +1,911 @@
+bdd_id,customer_id,company_reg_number,incorporation_country,legal_structure,industry,sector_risk,cash_intensive,years_trading,ownership_layers,ubo_count,ubo_identified,ubo_verified,complex_structure_flag,companies_house_check,directors_screened,financial_statements_reviewed,expected_monthly_turnover_gbp,website_and_trading_address_verified,shell_company_indicators,bdd_outcome
+BDD0001,C00001,11687827,United Kingdom,Private Limited,Retail,Standard,Y,25,1,1,Y,Y,N,Match,Y,Y,86000,Y,N,Satisfactory
+BDD0002,C00004,10563512,Pakistan,Partnership,Real Estate,High,N,0,1,3,Y,Y,N,N/A (non-UK),Y,Y,195300,N,N,Satisfactory
+BDD0003,C00005,14838823,United Kingdom,Private Limited,Precious Metals,High,Y,18,1,1,Y,Y,N,Match,Y,Y,24100,Y,N,Satisfactory
+BDD0004,C00006,11210491,United Kingdom,Private Limited,Precious Metals,High,Y,12,3,2,N,N,Y,Match,Y,Y,46200,Y,N,Referred to EDD
+BDD0005,C00010,11621261,United Kingdom,PLC,Money Services,High,Y,30,1,1,Y,Y,N,Match,Y,Y,36100,Y,N,Satisfactory
+BDD0006,C00016,14088368,France,Private Limited,Retail,Standard,Y,16,2,4,Y,Y,N,N/A (non-UK),Y,Y,115200,Y,N,Satisfactory
+BDD0007,C00017,14833145,United Kingdom,Private Limited,Money Services,High,Y,10,1,2,Y,Y,N,Match,Y,Y,100200,N,N,Satisfactory
+BDD0008,C00018,14138124,Ireland,Private Limited,Hospitality,Standard,Y,23,1,4,Y,Y,N,N/A (non-UK),Y,Y,92000,Y,N,Satisfactory
+BDD0009,C00032,10855702,United Kingdom,Private Limited,Construction,Standard,N,8,1,2,Y,Y,N,Match,Y,N,181000,N,N,Satisfactory
+BDD0010,C00037,11261371,France,Private Limited,Retail,Standard,Y,20,1,2,Y,Y,N,N/A (non-UK),Y,Y,262500,Y,N,Satisfactory
+BDD0011,C00039,13143013,Nigeria,Foundation,Money Services,High,Y,19,1,2,Y,Y,N,N/A (non-UK),Y,Y,21200,Y,N,Satisfactory
+BDD0012,C00043,15738310,United Kingdom,LLP,Construction,Standard,N,39,1,3,Y,N,N,Match,Y,Y,62200,Y,N,Satisfactory
+BDD0013,C00051,11007521,United Kingdom,Private Limited,Crypto Assets,High,N,24,4,4,Y,Y,Y,Match,Y,Y,381200,Y,N,Satisfactory
+BDD0014,C00052,13521729,Pakistan,Foundation,Real Estate,High,N,36,2,4,Y,Y,N,N/A (non-UK),Y,Y,40700,Y,N,Satisfactory
+BDD0015,C00059,15993164,United Kingdom,Foundation,Professional Services,Standard,N,10,3,1,N,N,Y,Match,Y,N,21500,Y,N,Referred to EDD
+BDD0016,C00060,13173523,Panama,Private Limited,Retail,Standard,Y,1,1,3,Y,Y,Y,N/A (non-UK),Y,Y,31700,Y,N,Satisfactory
+BDD0017,C00062,11597167,United Kingdom,Private Limited,Retail,Standard,Y,13,4,1,N,N,Y,Match,Y,Y,6900,Y,Y,Rejected
+BDD0018,C00067,14936955,United Kingdom,Private Limited,Import/Export,High,N,18,4,4,Y,Y,Y,Match,Y,Y,185700,N,Y,Rejected
+BDD0019,C00068,11034897,United Kingdom,Private Limited,Crypto Assets,High,N,16,2,2,Y,Y,N,Discrepancy,Y,Y,183800,Y,N,Remediation Required
+BDD0020,C00070,12251587,United Kingdom,Private Limited,Import/Export,High,N,0,3,1,N,N,Y,Match,Y,Y,125500,Y,N,Referred to EDD
+BDD0021,C00074,11111187,United Kingdom,Partnership,Crypto Assets,High,N,0,1,2,Y,Y,N,Match,Y,Y,71400,N,N,Satisfactory
+BDD0022,C00078,14286901,Pakistan,Private Limited,Professional Services,Standard,N,22,1,4,Y,Y,N,N/A (non-UK),Y,Y,68200,Y,N,Satisfactory
+BDD0023,C00079,15881892,United Kingdom,LLP,Construction,Standard,N,9,4,3,Y,Y,Y,Match,Y,Y,152300,Y,N,Satisfactory
+BDD0024,C00080,15510048,Nigeria,Private Limited,Money Services,High,Y,14,1,3,Y,Y,N,N/A (non-UK),Y,Y,80200,Y,N,Satisfactory
+BDD0025,C00081,10470132,United Kingdom,Private Limited,Retail,Standard,Y,30,1,3,Y,N,N,Match,Y,Y,41700,Y,N,Satisfactory
+BDD0026,C00082,15695338,United Kingdom,LLP,Real Estate,High,N,15,1,1,Y,Y,N,Match,Y,Y,21500,Y,N,Satisfactory
+BDD0027,C00085,13578409,United Kingdom,Foundation,Construction,Standard,N,32,1,4,Y,Y,N,Match,Y,Y,24600,Y,N,Satisfactory
+BDD0028,C00089,10238682,United Kingdom,Private Limited,Retail,Standard,Y,19,3,1,N,N,Y,Match,Y,Y,26200,Y,Y,Rejected
+BDD0029,C00091,10770222,United Kingdom,PLC,Hospitality,Standard,Y,29,3,2,Y,Y,Y,Discrepancy,Y,Y,155000,Y,N,Remediation Required
+BDD0030,C00094,10436921,United States,LLP,Professional Services,Standard,N,11,4,3,Y,Y,Y,N/A (non-UK),Y,Y,100100,Y,Y,Rejected
+BDD0031,C00098,12771308,Germany,PLC,Professional Services,Standard,N,5,3,4,Y,Y,Y,N/A (non-UK),Y,Y,33000,Y,Y,Rejected
+BDD0032,C00101,14249786,United Kingdom,LLP,Technology,Standard,N,10,2,1,Y,Y,N,Match,Y,Y,68300,Y,N,Satisfactory
+BDD0033,C00102,12734302,United Kingdom,Private Limited,Hospitality,Standard,Y,5,4,4,Y,Y,Y,Match,Y,Y,41300,Y,N,Satisfactory
+BDD0034,C00114,10026661,United Kingdom,Private Limited,Crypto Assets,High,N,19,2,1,Y,Y,N,Match,Y,Y,15500,Y,N,Satisfactory
+BDD0035,C00115,11807037,UAE,LLP,Technology,Standard,N,12,2,3,Y,Y,Y,N/A (non-UK),Y,Y,31400,N,N,Satisfactory
+BDD0036,C00116,13979449,United Kingdom,PLC,Professional Services,Standard,N,10,1,1,Y,Y,N,Discrepancy,Y,Y,118300,Y,N,Remediation Required
+BDD0037,C00119,12911215,United Kingdom,LLP,Real Estate,High,N,8,1,4,Y,Y,N,Match,Y,Y,40100,Y,N,Satisfactory
+BDD0038,C00124,14933569,United Kingdom,Private Limited,Hospitality,Standard,Y,16,3,1,N,N,Y,Match,Y,Y,47700,Y,N,Referred to EDD
+BDD0039,C00126,14550597,Germany,Private Limited,Real Estate,High,N,0,4,3,N,N,Y,N/A (non-UK),Y,Y,18600,N,N,Rejected
+BDD0040,C00133,10539519,Pakistan,PLC,Technology,Standard,N,15,4,1,Y,Y,Y,N/A (non-UK),Y,Y,208000,Y,N,Satisfactory
+BDD0041,C00135,14255211,United Kingdom,LLP,Professional Services,Standard,N,8,3,1,Y,N,Y,Match,Y,Y,34800,Y,N,Satisfactory
+BDD0042,C00136,10140696,United Kingdom,Private Limited,Hospitality,Standard,Y,21,1,3,Y,Y,N,Match,Y,Y,38000,Y,N,Satisfactory
+BDD0043,C00138,10246577,United States,Private Limited,Import/Export,High,N,19,3,2,N,N,Y,N/A (non-UK),Y,Y,25500,Y,N,Referred to EDD
+BDD0044,C00141,13051096,United Kingdom,LLP,Construction,Standard,N,18,4,3,Y,Y,Y,Match,Y,Y,101400,Y,Y,Rejected
+BDD0045,C00142,15891334,United Kingdom,Partnership,Hospitality,Standard,Y,24,2,2,Y,Y,N,Match,Y,Y,35200,Y,N,Satisfactory
+BDD0046,C00146,15923922,United Kingdom,Private Limited,Retail,Standard,Y,2,1,2,Y,Y,N,Match,Y,Y,181800,Y,N,Satisfactory
+BDD0047,C00152,14598642,United Kingdom,Private Limited,Import/Export,High,N,3,2,1,Y,Y,N,Match,Y,N,33500,Y,N,Satisfactory
+BDD0048,C00156,13209853,United Kingdom,Private Limited,Technology,Standard,N,19,1,3,Y,Y,N,Match,Y,Y,19000,Y,N,Satisfactory
+BDD0049,C00157,14457359,UAE,Private Limited,Hospitality,Standard,Y,15,4,4,Y,Y,Y,N/A (non-UK),Y,Y,63100,Y,N,Satisfactory
+BDD0050,C00162,15851173,India,LLP,Professional Services,Standard,N,11,3,1,Y,N,Y,N/A (non-UK),Y,Y,165300,Y,Y,Rejected
+BDD0051,C00165,15941571,United Kingdom,Private Limited,Retail,Standard,Y,15,2,2,Y,Y,N,Match,Y,Y,282300,Y,N,Satisfactory
+BDD0052,C00179,14210058,Nigeria,Private Limited,Professional Services,Standard,N,9,2,4,Y,Y,N,N/A (non-UK),Y,Y,162000,Y,N,Satisfactory
+BDD0053,C00180,11180268,United Kingdom,Partnership,Retail,Standard,Y,5,1,4,Y,Y,N,Match,Y,Y,49500,Y,N,Satisfactory
+BDD0054,C00191,11814663,United Kingdom,Trust,Import/Export,High,N,9,1,4,Y,Y,N,Match,Y,N,30800,Y,N,Satisfactory
+BDD0055,C00193,12044827,United Kingdom,Partnership,Technology,Standard,N,37,1,1,Y,N,N,Match,Y,Y,89500,N,N,Satisfactory
+BDD0056,C00195,11449743,France,Private Limited,Retail,Standard,Y,4,1,4,Y,Y,N,N/A (non-UK),Y,Y,164300,Y,N,Satisfactory
+BDD0057,C00196,15748867,United Kingdom,Private Limited,Crypto Assets,High,N,39,1,1,Y,Y,N,Match,Y,N,328300,Y,N,Satisfactory
+BDD0058,C00197,13634986,United Kingdom,Private Limited,Technology,Standard,N,27,1,2,Y,Y,N,Match,Y,Y,98000,Y,N,Satisfactory
+BDD0059,C00198,12441057,India,Private Limited,Construction,Standard,N,4,1,2,Y,Y,N,N/A (non-UK),Y,Y,78000,Y,N,Satisfactory
+BDD0060,C00199,11995275,United States,Private Limited,Retail,Standard,Y,31,1,4,Y,Y,N,N/A (non-UK),Y,Y,104300,Y,N,Satisfactory
+BDD0061,C00201,14911173,United Kingdom,Partnership,Hospitality,Standard,Y,10,3,2,Y,Y,Y,Discrepancy,Y,Y,52300,Y,N,Remediation Required
+BDD0062,C00205,11432261,United Kingdom,Partnership,Professional Services,Standard,N,19,4,3,Y,Y,Y,Match,Y,N,48200,Y,N,Satisfactory
+BDD0063,C00220,14353361,United Kingdom,Private Limited,Import/Export,High,N,0,1,3,Y,N,N,Match,Y,Y,6400,Y,N,Satisfactory
+BDD0064,C00221,12366769,United Kingdom,Private Limited,Retail,Standard,Y,0,3,2,Y,Y,Y,Match,Y,Y,52100,Y,N,Satisfactory
+BDD0065,C00225,10305975,India,LLP,Technology,Standard,N,31,4,1,Y,Y,Y,N/A (non-UK),Y,N,353700,Y,N,Satisfactory
+BDD0066,C00227,13196290,United Kingdom,LLP,Real Estate,High,N,23,2,4,Y,N,N,Match,Y,Y,76500,N,N,Satisfactory
+BDD0067,C00231,10611247,United Kingdom,Private Limited,Money Services,High,Y,16,2,1,Y,Y,N,Match,Y,Y,105800,Y,N,Satisfactory
+BDD0068,C00234,15540665,India,Trust,Professional Services,Standard,N,37,3,1,N,N,Y,N/A (non-UK),Y,Y,11600,Y,N,Referred to EDD
+BDD0069,C00238,11288693,France,Private Limited,Retail,Standard,Y,39,2,4,Y,N,N,N/A (non-UK),Y,Y,37800,Y,N,Satisfactory
+BDD0070,C00240,15734023,Ireland,Private Limited,Professional Services,Standard,N,38,1,3,Y,Y,N,N/A (non-UK),Y,Y,84800,N,N,Satisfactory
+BDD0071,C00242,13970496,India,Private Limited,Retail,Standard,Y,19,1,2,Y,Y,N,N/A (non-UK),Y,N,200200,Y,N,Satisfactory
+BDD0072,C00243,14382109,United Kingdom,Private Limited,Construction,Standard,N,33,1,1,Y,Y,N,Match,Y,Y,51200,Y,N,Satisfactory
+BDD0073,C00245,10715706,United Kingdom,Private Limited,Hospitality,Standard,Y,2,3,1,Y,Y,Y,Match,Y,Y,75500,Y,N,Satisfactory
+BDD0074,C00246,11450680,United Kingdom,Partnership,Retail,Standard,Y,29,1,2,Y,Y,N,Discrepancy,Y,Y,27400,Y,N,Remediation Required
+BDD0075,C00247,10028085,Germany,Private Limited,Money Services,High,Y,32,4,4,Y,Y,Y,N/A (non-UK),Y,Y,26100,Y,N,Satisfactory
+BDD0076,C00257,12764631,United Kingdom,Private Limited,Construction,Standard,N,0,1,4,Y,Y,N,Match,Y,Y,31400,Y,N,Satisfactory
+BDD0077,C00258,11717134,United Kingdom,Private Limited,Money Services,High,Y,31,2,3,Y,Y,N,Match,Y,Y,369200,Y,N,Satisfactory
+BDD0078,C00261,10588681,United Kingdom,Partnership,Professional Services,Standard,N,35,1,3,Y,Y,N,Match,Y,Y,215800,Y,N,Satisfactory
+BDD0079,C00267,11884599,Cyprus,LLP,Technology,Standard,N,8,1,2,Y,Y,Y,N/A (non-UK),Y,Y,19400,Y,N,Satisfactory
+BDD0080,C00270,13422610,United Kingdom,Private Limited,Construction,Standard,N,36,2,3,Y,Y,N,Match,Y,Y,73200,N,N,Satisfactory
+BDD0081,C00271,13242937,United Kingdom,Private Limited,Retail,Standard,Y,7,3,4,Y,Y,Y,Match,Y,Y,34800,Y,N,Satisfactory
+BDD0082,C00277,13843959,United Kingdom,PLC,Professional Services,Standard,N,37,1,2,Y,Y,N,Match,Y,Y,74700,Y,N,Satisfactory
+BDD0083,C00280,14997297,United Kingdom,LLP,Technology,Standard,N,37,2,3,Y,Y,N,Match,Y,Y,22700,Y,N,Satisfactory
+BDD0084,C00282,12385229,United Kingdom,Private Limited,Professional Services,Standard,N,19,1,4,Y,Y,N,Match,Y,Y,24800,Y,N,Satisfactory
+BDD0085,C00283,15285305,Ireland,Private Limited,Hospitality,Standard,Y,39,2,1,Y,Y,N,N/A (non-UK),Y,Y,75700,Y,N,Satisfactory
+BDD0086,C00286,11312208,France,Private Limited,Real Estate,High,N,21,2,2,Y,Y,N,N/A (non-UK),Y,Y,27200,Y,N,Satisfactory
+BDD0087,C00287,13113660,Panama,Private Limited,Professional Services,Standard,N,28,3,3,Y,Y,Y,N/A (non-UK),Y,Y,142600,Y,N,Satisfactory
+BDD0088,C00288,15923422,India,Private Limited,Professional Services,Standard,N,18,3,2,Y,Y,Y,N/A (non-UK),Y,N,197500,Y,Y,Referred to EDD
+BDD0089,C00290,10063618,United Kingdom,Private Limited,Professional Services,Standard,N,6,4,1,Y,N,Y,Match,Y,Y,58200,Y,N,Satisfactory
+BDD0090,C00297,10237747,United Kingdom,Private Limited,Precious Metals,High,Y,12,4,1,Y,Y,Y,Match,Y,Y,59900,Y,N,Satisfactory
+BDD0091,C00302,13264481,United Kingdom,PLC,Money Services,High,Y,7,1,4,Y,Y,N,Match,Y,Y,145200,Y,N,Satisfactory
+BDD0092,C00303,14388771,United Kingdom,Private Limited,Money Services,High,Y,7,4,2,Y,Y,Y,Match,Y,Y,83300,Y,N,Satisfactory
+BDD0093,C00305,10802513,United Kingdom,Partnership,Real Estate,High,N,26,2,4,Y,N,N,Match,Y,Y,313200,N,N,Satisfactory
+BDD0094,C00306,14125063,United Kingdom,LLP,Professional Services,Standard,N,2,1,4,Y,Y,N,Discrepancy,Y,N,18800,Y,N,Remediation Required
+BDD0095,C00308,10218551,United Kingdom,Trust,Retail,Standard,Y,3,4,3,Y,Y,Y,Match,Y,Y,7400,Y,N,Satisfactory
+BDD0096,C00310,13364352,United Kingdom,Foundation,Retail,Standard,Y,37,1,2,Y,Y,N,Match,Y,Y,116200,Y,N,Satisfactory
+BDD0097,C00314,11217321,Ireland,LLP,Professional Services,Standard,N,7,1,2,Y,Y,N,N/A (non-UK),Y,Y,35300,Y,N,Satisfactory
+BDD0098,C00318,11122533,United Kingdom,LLP,Money Services,High,Y,23,2,2,Y,Y,N,Match,Y,Y,66600,Y,N,Satisfactory
+BDD0099,C00320,15884215,United Kingdom,Private Limited,Professional Services,Standard,N,0,2,2,Y,Y,N,Match,Y,Y,87800,Y,N,Satisfactory
+BDD0100,C00326,15124820,United Kingdom,Trust,Professional Services,Standard,N,29,2,2,Y,Y,N,Match,Y,Y,39000,Y,N,Satisfactory
+BDD0101,C00328,12116304,United Kingdom,Partnership,Money Services,High,Y,21,2,2,Y,N,N,Match,Y,Y,26500,Y,N,Satisfactory
+BDD0102,C00330,13662245,Cyprus,Private Limited,Professional Services,Standard,N,0,4,2,Y,Y,Y,N/A (non-UK),Y,Y,24200,Y,N,Satisfactory
+BDD0103,C00331,15883191,Hong Kong,Private Limited,Technology,Standard,N,24,2,2,Y,Y,Y,N/A (non-UK),Y,Y,618100,Y,N,Satisfactory
+BDD0104,C00332,14068578,United Kingdom,PLC,Import/Export,High,N,6,3,3,Y,Y,Y,Match,Y,Y,500700,Y,N,Satisfactory
+BDD0105,C00334,14354865,United Kingdom,Private Limited,Retail,Standard,Y,38,2,3,Y,Y,N,Match,Y,Y,83700,Y,N,Satisfactory
+BDD0106,C00339,14253643,United Kingdom,Partnership,Technology,Standard,N,20,2,4,Y,Y,N,Match,Y,N,10900,Y,N,Satisfactory
+BDD0107,C00341,13046455,United Kingdom,Trust,Technology,Standard,N,3,2,1,Y,Y,N,Discrepancy,Y,Y,47700,Y,N,Remediation Required
+BDD0108,C00343,10721774,United Kingdom,Private Limited,Import/Export,High,N,19,4,4,Y,Y,Y,Match,Y,Y,46100,N,Y,Rejected
+BDD0109,C00346,10144610,United Kingdom,Private Limited,Professional Services,Standard,N,36,1,4,Y,Y,N,Match,Y,N,84800,Y,N,Satisfactory
+BDD0110,C00347,12797915,United Kingdom,Trust,Professional Services,Standard,N,31,1,4,Y,Y,N,Match,Y,Y,201000,Y,N,Satisfactory
+BDD0111,C00352,13483946,India,Private Limited,Real Estate,High,N,12,3,4,Y,Y,Y,N/A (non-UK),Y,N,407900,Y,N,Satisfactory
+BDD0112,C00353,14736591,Nigeria,Private Limited,Import/Export,High,N,20,2,3,Y,Y,N,N/A (non-UK),Y,Y,65500,N,N,Satisfactory
+BDD0113,C00357,10194342,United Kingdom,Partnership,Money Services,High,Y,35,1,2,Y,Y,N,Match,Y,Y,71800,Y,N,Satisfactory
+BDD0114,C00359,12387158,India,Private Limited,Professional Services,Standard,N,15,2,4,Y,Y,N,N/A (non-UK),Y,N,69800,Y,N,Satisfactory
+BDD0115,C00363,12160128,Ireland,Private Limited,Hospitality,Standard,Y,27,1,4,Y,Y,N,N/A (non-UK),Y,Y,66100,Y,N,Satisfactory
+BDD0116,C00368,14388478,United Kingdom,Foundation,Real Estate,High,N,18,2,2,Y,Y,N,Match,Y,Y,363200,Y,N,Satisfactory
+BDD0117,C00391,13366316,India,Trust,Retail,Standard,Y,13,1,2,Y,Y,N,N/A (non-UK),Y,Y,84700,Y,N,Satisfactory
+BDD0118,C00395,12254738,United States,LLP,Real Estate,High,N,5,1,1,Y,Y,N,N/A (non-UK),Y,Y,47000,Y,N,Satisfactory
+BDD0119,C00401,14328413,United Kingdom,Private Limited,Hospitality,Standard,Y,35,2,3,Y,Y,N,Match,Y,Y,15900,Y,N,Satisfactory
+BDD0120,C00402,14821550,United Kingdom,Private Limited,Import/Export,High,N,21,1,4,Y,N,N,Match,Y,Y,17100,Y,N,Satisfactory
+BDD0121,C00403,13778447,United Kingdom,Private Limited,Retail,Standard,Y,23,1,4,Y,Y,N,Discrepancy,Y,Y,105700,N,N,Remediation Required
+BDD0122,C00406,15073653,United Kingdom,LLP,Hospitality,Standard,Y,1,1,4,Y,Y,N,Match,Y,Y,726600,Y,N,Satisfactory
+BDD0123,C00408,13235068,United Kingdom,PLC,Professional Services,Standard,N,26,1,4,Y,Y,N,Match,Y,Y,104600,Y,N,Satisfactory
+BDD0124,C00412,15002056,United Kingdom,LLP,Construction,Standard,N,8,1,2,Y,Y,N,Match,Y,Y,37500,Y,N,Satisfactory
+BDD0125,C00418,14397332,United Kingdom,LLP,Charity,Standard,N,35,2,4,Y,Y,N,Match,Y,Y,22500,Y,N,Satisfactory
+BDD0126,C00420,13918692,United Kingdom,Private Limited,Money Services,High,Y,26,2,1,Y,Y,N,Match,Y,Y,85400,Y,N,Satisfactory
+BDD0127,C00421,12913441,United Kingdom,Private Limited,Retail,Standard,Y,18,4,3,N,N,Y,Match,Y,Y,21000,N,N,Rejected
+BDD0128,C00427,13026233,Hong Kong,Foundation,Retail,Standard,Y,15,1,2,Y,N,Y,N/A (non-UK),Y,Y,339900,Y,N,Satisfactory
+BDD0129,C00428,14059456,United Kingdom,Trust,Charity,Standard,N,4,1,2,Y,Y,N,Match,Y,Y,46500,N,N,Satisfactory
+BDD0130,C00429,15127652,India,LLP,Real Estate,High,N,28,4,2,N,N,Y,N/A (non-UK),Y,Y,66100,Y,N,Referred to EDD
+BDD0131,C00432,14336499,United Kingdom,Partnership,Technology,Standard,N,3,1,4,Y,Y,N,Match,Y,N,21500,Y,N,Satisfactory
+BDD0132,C00440,12275823,Nigeria,LLP,Construction,Standard,N,38,2,4,Y,Y,N,N/A (non-UK),Y,Y,98000,Y,N,Satisfactory
+BDD0133,C00441,10265352,UAE,LLP,Hospitality,Standard,Y,12,3,3,Y,Y,Y,N/A (non-UK),Y,N,136900,Y,N,Satisfactory
+BDD0134,C00443,15773750,United Kingdom,PLC,Professional Services,Standard,N,36,2,2,Y,Y,N,Match,Y,N,52000,Y,N,Satisfactory
+BDD0135,C00444,11531047,Pakistan,Private Limited,Construction,Standard,N,34,3,3,Y,Y,Y,N/A (non-UK),Y,Y,38200,Y,N,Satisfactory
+BDD0136,C00449,14986405,United Kingdom,Foundation,Retail,Standard,Y,18,1,2,Y,Y,N,Match,Y,N,186100,Y,N,Satisfactory
+BDD0137,C00454,10596629,United Kingdom,Private Limited,Professional Services,Standard,N,38,1,2,Y,Y,N,Match,Y,Y,17200,Y,N,Satisfactory
+BDD0138,C00463,11613134,United Kingdom,Private Limited,Import/Export,High,N,27,1,1,Y,Y,N,Match,Y,Y,78800,Y,N,Satisfactory
+BDD0139,C00467,10152677,Russia,Private Limited,Construction,Standard,N,22,2,2,Y,Y,N,N/A (non-UK),Y,Y,14500,Y,N,Satisfactory
+BDD0140,C00472,12254681,United Kingdom,LLP,Crypto Assets,High,N,9,2,3,Y,Y,N,Match,Y,Y,13200,N,N,Satisfactory
+BDD0141,C00474,10549259,United Kingdom,LLP,Technology,Standard,N,22,2,3,Y,Y,N,Match,Y,Y,80200,Y,N,Satisfactory
+BDD0142,C00475,15375642,United States,Private Limited,Money Services,High,Y,24,1,3,Y,Y,N,N/A (non-UK),Y,N,90500,Y,N,Satisfactory
+BDD0143,C00477,12448506,United Kingdom,Private Limited,Import/Export,High,N,9,2,4,Y,Y,N,Match,Y,Y,20100,Y,N,Satisfactory
+BDD0144,C00479,11515619,United Kingdom,LLP,Retail,Standard,Y,22,4,1,Y,Y,Y,Match,Y,Y,100900,Y,Y,Referred to EDD
+BDD0145,C00485,11850383,United States,PLC,Real Estate,High,N,35,2,4,Y,Y,N,N/A (non-UK),Y,Y,155200,Y,N,Satisfactory
+BDD0146,C00491,10492806,Hong Kong,Private Limited,Hospitality,Standard,Y,19,3,2,N,N,Y,N/A (non-UK),Y,Y,99200,Y,N,Rejected
+BDD0147,C00497,11228651,United Kingdom,Private Limited,Retail,Standard,Y,15,3,2,Y,Y,Y,Match,Y,Y,22500,Y,N,Satisfactory
+BDD0148,C00499,10469933,United Kingdom,Private Limited,Hospitality,Standard,Y,24,1,2,Y,Y,N,Match,Y,N,81500,Y,N,Satisfactory
+BDD0149,C00502,10025582,UAE,LLP,Retail,Standard,Y,19,1,4,Y,Y,Y,N/A (non-UK),Y,Y,76600,N,N,Satisfactory
+BDD0150,C00503,15198953,United Kingdom,Private Limited,Construction,Standard,N,26,2,3,Y,Y,N,Discrepancy,Y,N,49300,Y,N,Remediation Required
+BDD0151,C00504,14091684,United Kingdom,Trust,Import/Export,High,N,38,3,1,N,N,Y,Match,Y,Y,70300,Y,N,Referred to EDD
+BDD0152,C00505,12226640,United Kingdom,Private Limited,Charity,Standard,N,29,4,1,Y,Y,Y,Match,Y,Y,293200,Y,N,Satisfactory
+BDD0153,C00506,11510921,United Kingdom,Private Limited,Technology,Standard,N,31,3,3,Y,Y,Y,Match,Y,Y,16100,Y,N,Satisfactory
+BDD0154,C00507,11267071,United Kingdom,Private Limited,Hospitality,Standard,Y,8,4,3,Y,Y,Y,Match,Y,Y,94800,Y,N,Satisfactory
+BDD0155,C00509,12225714,United Kingdom,Private Limited,Retail,Standard,Y,30,4,2,Y,Y,Y,Match,Y,Y,30200,Y,N,Satisfactory
+BDD0156,C00513,11603044,Cyprus,Private Limited,Charity,Standard,N,2,4,2,Y,Y,Y,N/A (non-UK),Y,Y,62300,Y,N,Satisfactory
+BDD0157,C00514,14858750,United Kingdom,LLP,Professional Services,Standard,N,18,2,3,Y,Y,N,Match,Y,Y,43300,Y,N,Satisfactory
+BDD0158,C00516,13556421,Germany,Private Limited,Real Estate,High,N,7,3,4,Y,Y,Y,N/A (non-UK),Y,N,9000,Y,N,Satisfactory
+BDD0159,C00517,10519057,United Kingdom,Private Limited,Technology,Standard,N,5,4,4,Y,Y,Y,Match,Y,Y,343100,Y,N,Satisfactory
+BDD0160,C00521,12513016,United Kingdom,Private Limited,Import/Export,High,N,38,1,4,Y,Y,N,Match,Y,Y,138300,Y,N,Satisfactory
+BDD0161,C00523,10862383,Panama,Private Limited,Professional Services,Standard,N,13,2,1,N,N,Y,N/A (non-UK),Y,Y,15300,Y,Y,Referred to EDD
+BDD0162,C00525,10855151,Hong Kong,Private Limited,Import/Export,High,N,21,2,3,Y,Y,Y,N/A (non-UK),Y,Y,92200,Y,N,Satisfactory
+BDD0163,C00527,13827335,UAE,Trust,Professional Services,Standard,N,17,1,2,N,N,Y,N/A (non-UK),Y,Y,173700,Y,N,Referred to EDD
+BDD0164,C00530,12950868,Ireland,Private Limited,Money Services,High,Y,28,2,2,Y,Y,N,N/A (non-UK),Y,Y,133800,Y,N,Satisfactory
+BDD0165,C00531,11121790,India,Private Limited,Technology,Standard,N,31,2,4,Y,Y,N,N/A (non-UK),Y,Y,126900,Y,N,Satisfactory
+BDD0166,C00532,13921758,India,LLP,Precious Metals,High,Y,1,3,2,Y,Y,Y,N/A (non-UK),Y,Y,33200,Y,N,Satisfactory
+BDD0167,C00538,12678086,UAE,LLP,Professional Services,Standard,N,30,1,3,Y,Y,Y,N/A (non-UK),Y,Y,39100,N,N,Satisfactory
+BDD0168,C00539,12368587,India,Private Limited,Money Services,High,Y,26,4,1,Y,Y,Y,N/A (non-UK),Y,Y,30500,Y,Y,Referred to EDD
+BDD0169,C00540,10153551,Germany,Private Limited,Technology,Standard,N,36,4,3,N,N,Y,N/A (non-UK),Y,Y,23300,Y,N,Rejected
+BDD0170,C00541,13701031,United Kingdom,Private Limited,Precious Metals,High,Y,3,2,2,Y,Y,N,Match,Y,Y,13600,Y,N,Satisfactory
+BDD0171,C00542,11655992,United Kingdom,Foundation,Retail,Standard,Y,2,2,1,Y,Y,N,Discrepancy,Y,Y,353700,Y,N,Remediation Required
+BDD0172,C00546,14212806,United Kingdom,Trust,Charity,Standard,N,9,1,1,Y,Y,N,Match,Y,Y,193400,N,N,Satisfactory
+BDD0173,C00552,11978900,Ireland,Foundation,Construction,Standard,N,17,3,2,Y,Y,Y,N/A (non-UK),Y,Y,21800,N,Y,Rejected
+BDD0174,C00555,13903269,United Kingdom,Private Limited,Construction,Standard,N,27,2,3,Y,Y,N,Match,Y,Y,609500,Y,N,Satisfactory
+BDD0175,C00557,13746845,United Kingdom,LLP,Construction,Standard,N,33,2,4,Y,Y,N,Match,Y,Y,134000,N,N,Satisfactory
+BDD0176,C00562,10854535,United Kingdom,Private Limited,Crypto Assets,High,N,27,4,4,Y,Y,Y,Match,Y,Y,104800,Y,N,Satisfactory
+BDD0177,C00566,10555520,United Kingdom,PLC,Retail,Standard,Y,18,2,4,Y,Y,N,Match,Y,Y,664700,Y,N,Satisfactory
+BDD0178,C00567,12618096,United Kingdom,Private Limited,Professional Services,Standard,N,5,2,1,Y,Y,N,Match,Y,Y,115000,Y,N,Satisfactory
+BDD0179,C00568,11644500,Hong Kong,Private Limited,Retail,Standard,Y,9,1,4,N,N,Y,N/A (non-UK),Y,Y,16600,Y,N,Rejected
+BDD0180,C00573,15454819,United Kingdom,Private Limited,Crypto Assets,High,N,16,1,4,Y,N,N,Match,Y,Y,46600,Y,N,Satisfactory
+BDD0181,C00574,10728919,UAE,Private Limited,Retail,Standard,Y,31,3,3,N,N,Y,N/A (non-UK),Y,Y,69500,Y,N,Referred to EDD
+BDD0182,C00577,10951934,Germany,Foundation,Retail,Standard,Y,35,2,2,Y,Y,N,N/A (non-UK),Y,N,61600,Y,N,Satisfactory
+BDD0183,C00588,12852386,India,Private Limited,Construction,Standard,N,2,1,4,Y,Y,N,N/A (non-UK),Y,Y,12900,Y,N,Satisfactory
+BDD0184,C00589,15250011,United Kingdom,Private Limited,Retail,Standard,Y,36,3,1,N,N,Y,Match,Y,Y,42900,Y,N,Referred to EDD
+BDD0185,C00592,12555598,United Kingdom,Private Limited,Retail,Standard,Y,14,3,1,Y,Y,Y,Match,Y,Y,79800,Y,Y,Rejected
+BDD0186,C00595,12678721,United Kingdom,Private Limited,Precious Metals,High,Y,24,4,1,Y,Y,Y,Match,Y,Y,39400,Y,Y,Rejected
+BDD0187,C00597,15483041,India,LLP,Technology,Standard,N,27,1,3,Y,Y,N,N/A (non-UK),Y,Y,123200,Y,N,Satisfactory
+BDD0188,C00604,13619487,United Kingdom,Private Limited,Construction,Standard,N,15,1,1,Y,Y,N,Match,Y,Y,69100,Y,N,Satisfactory
+BDD0189,C00607,15200677,United Kingdom,PLC,Real Estate,High,N,6,2,1,Y,N,N,Match,Y,Y,32200,N,N,Satisfactory
+BDD0190,C00608,11888990,United Kingdom,Private Limited,Construction,Standard,N,8,3,3,Y,Y,Y,Match,Y,Y,165500,Y,N,Satisfactory
+BDD0191,C00611,11024880,United Kingdom,Private Limited,Crypto Assets,High,N,33,1,3,Y,Y,N,Match,Y,Y,71700,Y,N,Satisfactory
+BDD0192,C00613,14362560,United Kingdom,PLC,Technology,Standard,N,26,1,2,Y,Y,N,Match,Y,Y,109800,Y,N,Satisfactory
+BDD0193,C00614,11512974,United Kingdom,LLP,Technology,Standard,N,15,2,4,Y,Y,N,Match,Y,Y,18100,N,N,Satisfactory
+BDD0194,C00615,11074529,United Kingdom,Trust,Professional Services,Standard,N,39,1,2,Y,Y,N,Match,Y,Y,61400,Y,N,Satisfactory
+BDD0195,C00620,13672418,United Kingdom,LLP,Professional Services,Standard,N,15,4,3,Y,Y,Y,Match,Y,Y,21200,Y,N,Satisfactory
+BDD0196,C00624,14576575,United States,Private Limited,Professional Services,Standard,N,29,1,3,Y,Y,N,N/A (non-UK),Y,Y,76100,N,N,Satisfactory
+BDD0197,C00643,15425363,Pakistan,Partnership,Precious Metals,High,Y,37,1,3,Y,Y,N,N/A (non-UK),Y,Y,11600,Y,N,Satisfactory
+BDD0198,C00649,10856880,Russia,Private Limited,Hospitality,Standard,Y,14,2,2,Y,Y,N,N/A (non-UK),Y,N,41500,Y,N,Satisfactory
+BDD0199,C00650,15314698,United Kingdom,Private Limited,Import/Export,High,N,5,3,3,N,N,Y,Match,Y,Y,365800,Y,N,Referred to EDD
+BDD0200,C00658,11034019,Ireland,Partnership,Retail,Standard,Y,18,4,1,Y,Y,Y,N/A (non-UK),Y,Y,35900,Y,Y,Referred to EDD
+BDD0201,C00661,14158812,United Kingdom,Partnership,Real Estate,High,N,17,1,3,Y,Y,N,Match,Y,Y,436500,Y,N,Satisfactory
+BDD0202,C00665,10051423,United Kingdom,Foundation,Precious Metals,High,Y,21,3,4,Y,Y,Y,Match,Y,Y,339900,Y,N,Satisfactory
+BDD0203,C00674,13111439,United Kingdom,Private Limited,Retail,Standard,Y,20,4,3,Y,Y,Y,Discrepancy,Y,N,38000,Y,Y,Rejected
+BDD0204,C00676,15179143,United Kingdom,Partnership,Real Estate,High,N,24,2,1,Y,Y,N,Match,Y,Y,118700,Y,N,Satisfactory
+BDD0205,C00679,11000866,United Kingdom,LLP,Professional Services,Standard,N,3,1,4,Y,Y,N,Match,Y,Y,12400,Y,N,Satisfactory
+BDD0206,C00680,15065010,United Kingdom,Private Limited,Import/Export,High,N,34,2,3,Y,Y,N,Match,Y,Y,16000,Y,N,Satisfactory
+BDD0207,C00682,10498659,United Kingdom,Private Limited,Technology,Standard,N,12,2,4,Y,Y,N,Match,Y,Y,37200,Y,N,Satisfactory
+BDD0208,C00685,12345601,UAE,Private Limited,Hospitality,Standard,Y,31,3,3,Y,Y,Y,N/A (non-UK),Y,Y,8400,N,N,Satisfactory
+BDD0209,C00687,11098332,United Kingdom,Private Limited,Retail,Standard,Y,21,2,3,Y,Y,N,Match,Y,Y,23500,Y,N,Satisfactory
+BDD0210,C00689,10018837,UAE,Private Limited,Construction,Standard,N,13,4,4,Y,Y,Y,N/A (non-UK),Y,N,38100,Y,N,Satisfactory
+BDD0211,C00699,11662489,United Kingdom,Trust,Construction,Standard,N,36,1,4,Y,Y,N,Match,Y,Y,24900,Y,N,Satisfactory
+BDD0212,C00700,15598433,United Kingdom,Private Limited,Precious Metals,High,Y,11,3,2,Y,Y,Y,Match,Y,N,19100,Y,N,Satisfactory
+BDD0213,C00701,15379795,United Kingdom,Partnership,Construction,Standard,N,18,3,3,N,N,Y,Match,Y,Y,266800,Y,N,Rejected
+BDD0214,C00703,11028236,United States,Private Limited,Hospitality,Standard,Y,11,2,4,Y,Y,N,N/A (non-UK),Y,Y,47300,Y,N,Satisfactory
+BDD0215,C00710,13302142,United Kingdom,Private Limited,Construction,Standard,N,22,2,4,Y,Y,N,Match,Y,Y,34900,Y,N,Satisfactory
+BDD0216,C00713,10894449,Ireland,PLC,Construction,Standard,N,4,3,1,Y,Y,Y,N/A (non-UK),Y,N,138000,Y,N,Satisfactory
+BDD0217,C00716,15416365,Pakistan,Partnership,Precious Metals,High,Y,27,1,4,Y,Y,N,N/A (non-UK),Y,Y,5300,Y,N,Satisfactory
+BDD0218,C00717,11267072,United States,Private Limited,Technology,Standard,N,1,2,3,Y,Y,N,N/A (non-UK),Y,Y,128400,Y,N,Satisfactory
+BDD0219,C00725,15313563,India,Partnership,Charity,Standard,N,5,4,1,N,N,Y,N/A (non-UK),Y,Y,118000,N,N,Referred to EDD
+BDD0220,C00729,11543549,United Kingdom,Trust,Crypto Assets,High,N,39,1,3,Y,Y,N,Match,Y,Y,30800,N,N,Satisfactory
+BDD0221,C00735,10862009,United Kingdom,Private Limited,Retail,Standard,Y,5,1,4,Y,Y,N,Match,Y,Y,69200,Y,N,Satisfactory
+BDD0222,C00737,15587851,United Kingdom,Private Limited,Import/Export,High,N,12,4,4,N,N,Y,Match,Y,Y,6800,Y,N,Rejected
+BDD0223,C00738,10832717,UAE,Private Limited,Technology,Standard,N,19,3,1,N,N,Y,N/A (non-UK),Y,Y,31500,Y,N,Referred to EDD
+BDD0224,C00742,13768289,Germany,Private Limited,Import/Export,High,N,19,2,3,Y,Y,N,N/A (non-UK),Y,Y,211600,Y,N,Satisfactory
+BDD0225,C00746,13790322,United Kingdom,Private Limited,Professional Services,Standard,N,24,4,1,Y,Y,Y,Match,Y,Y,35200,Y,Y,Referred to EDD
+BDD0226,C00750,12046839,United Kingdom,Private Limited,Technology,Standard,N,3,2,3,Y,Y,N,Match,Y,Y,50200,Y,N,Satisfactory
+BDD0227,C00753,14261862,Nigeria,Private Limited,Retail,Standard,Y,12,4,2,Y,Y,Y,N/A (non-UK),Y,Y,68300,Y,N,Satisfactory
+BDD0228,C00754,14583441,United Kingdom,PLC,Import/Export,High,N,17,1,4,Y,N,N,Match,Y,Y,10200,Y,N,Satisfactory
+BDD0229,C00757,13699817,United Kingdom,Private Limited,Hospitality,Standard,Y,3,2,1,Y,Y,N,Match,Y,N,253800,Y,N,Satisfactory
+BDD0230,C00758,14637671,United Kingdom,Private Limited,Real Estate,High,N,0,2,2,Y,Y,N,Discrepancy,Y,Y,16300,N,N,Remediation Required
+BDD0231,C00761,11649458,United Kingdom,Partnership,Technology,Standard,N,30,2,4,Y,Y,N,Match,Y,Y,41500,Y,N,Satisfactory
+BDD0232,C00762,11478282,Pakistan,Private Limited,Construction,Standard,N,35,1,3,Y,Y,N,N/A (non-UK),Y,Y,34200,Y,N,Satisfactory
+BDD0233,C00763,12961974,Russia,Private Limited,Real Estate,High,N,27,1,2,Y,Y,N,N/A (non-UK),Y,Y,16800,Y,N,Satisfactory
+BDD0234,C00766,11046112,United Kingdom,Private Limited,Technology,Standard,N,38,1,3,Y,Y,N,Match,Y,Y,14200,Y,N,Satisfactory
+BDD0235,C00767,10675369,United Kingdom,Private Limited,Real Estate,High,N,36,3,2,Y,Y,Y,Match,Y,Y,245400,Y,N,Satisfactory
+BDD0236,C00768,10915389,United Kingdom,PLC,Professional Services,Standard,N,38,4,2,N,N,Y,Match,Y,N,11100,Y,N,Rejected
+BDD0237,C00771,10175810,United Kingdom,LLP,Retail,Standard,Y,31,1,2,Y,Y,N,Discrepancy,Y,Y,71200,Y,N,Remediation Required
+BDD0238,C00773,12138629,United Kingdom,Partnership,Professional Services,Standard,N,7,4,2,N,N,Y,Match,Y,N,128200,N,N,Referred to EDD
+BDD0239,C00775,11755337,United Kingdom,Partnership,Technology,Standard,N,29,4,1,Y,Y,Y,Match,Y,Y,54300,Y,Y,Referred to EDD
+BDD0240,C00776,10169306,United Kingdom,Private Limited,Construction,Standard,N,32,4,3,Y,Y,Y,Match,Y,Y,37100,Y,N,Satisfactory
+BDD0241,C00783,14036012,United Kingdom,Private Limited,Crypto Assets,High,N,20,1,2,Y,Y,N,Match,Y,Y,352200,Y,N,Satisfactory
+BDD0242,C00792,12645937,United Kingdom,Partnership,Real Estate,High,N,13,1,2,Y,N,N,Match,Y,N,45000,Y,N,Satisfactory
+BDD0243,C00795,11806755,United Kingdom,Private Limited,Technology,Standard,N,37,1,1,Y,Y,N,Match,Y,Y,23300,Y,N,Satisfactory
+BDD0244,C00796,11206901,United Kingdom,Private Limited,Professional Services,Standard,N,26,2,4,Y,Y,N,Match,Y,Y,110700,Y,N,Satisfactory
+BDD0245,C00805,12877837,Ireland,Trust,Import/Export,High,N,27,1,1,Y,Y,N,N/A (non-UK),Y,Y,76800,Y,N,Satisfactory
+BDD0246,C00811,14604211,United Kingdom,Private Limited,Professional Services,Standard,N,37,1,3,Y,Y,N,Discrepancy,Y,N,35800,Y,N,Remediation Required
+BDD0247,C00812,10182219,United Kingdom,Private Limited,Import/Export,High,N,4,2,4,Y,Y,N,Match,Y,N,15200,Y,N,Satisfactory
+BDD0248,C00813,11978600,Nigeria,Private Limited,Hospitality,Standard,Y,21,2,3,Y,Y,N,N/A (non-UK),Y,Y,46900,N,N,Satisfactory
+BDD0249,C00814,12483587,United States,Private Limited,Hospitality,Standard,Y,31,1,4,Y,Y,N,N/A (non-UK),Y,Y,141600,Y,N,Satisfactory
+BDD0250,C00815,13905975,United States,Private Limited,Charity,Standard,N,16,1,1,Y,Y,N,N/A (non-UK),Y,Y,51800,Y,N,Satisfactory
+BDD0251,C00816,14976289,United Kingdom,Private Limited,Professional Services,Standard,N,8,1,2,Y,Y,N,Match,Y,Y,53200,Y,N,Satisfactory
+BDD0252,C00822,14094354,United Kingdom,Private Limited,Real Estate,High,N,20,2,4,Y,N,N,Match,Y,Y,79000,Y,N,Satisfactory
+BDD0253,C00828,13712468,Cyprus,Partnership,Retail,Standard,Y,32,1,1,Y,Y,Y,N/A (non-UK),Y,Y,31000,Y,N,Satisfactory
+BDD0254,C00830,14772832,United Kingdom,Private Limited,Import/Export,High,N,24,1,4,Y,Y,N,Match,Y,Y,138000,Y,N,Satisfactory
+BDD0255,C00834,13802173,United Kingdom,Private Limited,Professional Services,Standard,N,39,1,1,Y,Y,N,Match,Y,Y,12500,Y,N,Satisfactory
+BDD0256,C00835,12851468,United Kingdom,LLP,Professional Services,Standard,N,21,1,3,Y,Y,N,Discrepancy,Y,N,39800,N,N,Remediation Required
+BDD0257,C00837,14009205,United Kingdom,Private Limited,Crypto Assets,High,N,5,1,4,Y,Y,N,Discrepancy,Y,N,91800,Y,N,Remediation Required
+BDD0258,C00839,12399239,India,Private Limited,Real Estate,High,N,5,1,1,Y,Y,N,N/A (non-UK),Y,Y,45100,Y,N,Satisfactory
+BDD0259,C00842,15362113,United Kingdom,LLP,Retail,Standard,Y,3,1,4,Y,Y,N,Discrepancy,Y,Y,11800,Y,N,Remediation Required
+BDD0260,C00847,11543181,United Kingdom,Private Limited,Professional Services,Standard,N,28,1,3,Y,Y,N,Match,Y,Y,69700,Y,N,Satisfactory
+BDD0261,C00848,13840594,United Kingdom,Private Limited,Real Estate,High,N,31,1,3,Y,Y,N,Match,Y,Y,36400,Y,N,Satisfactory
+BDD0262,C00849,10057750,United Kingdom,Private Limited,Real Estate,High,N,0,4,1,Y,Y,Y,Match,Y,Y,153200,N,N,Satisfactory
+BDD0263,C00855,14362448,United Kingdom,Private Limited,Professional Services,Standard,N,31,2,1,Y,Y,N,Match,Y,Y,15100,N,N,Satisfactory
+BDD0264,C00856,10944781,India,Trust,Real Estate,High,N,26,1,1,Y,N,N,N/A (non-UK),Y,Y,299800,Y,N,Satisfactory
+BDD0265,C00857,13488655,India,Private Limited,Retail,Standard,Y,26,4,2,Y,Y,Y,N/A (non-UK),Y,N,155600,Y,N,Satisfactory
+BDD0266,C00865,11332291,United Kingdom,Private Limited,Import/Export,High,N,16,2,2,Y,N,N,Match,Y,Y,50200,Y,N,Satisfactory
+BDD0267,C00867,10206935,United Kingdom,Private Limited,Professional Services,Standard,N,18,2,3,Y,Y,N,Match,Y,N,90900,Y,N,Satisfactory
+BDD0268,C00874,13949842,United Kingdom,Private Limited,Hospitality,Standard,Y,0,1,1,Y,Y,N,Match,Y,Y,8200,Y,N,Satisfactory
+BDD0269,C00881,14118947,United Kingdom,Partnership,Charity,Standard,N,34,1,2,Y,Y,N,Match,Y,Y,162600,Y,N,Satisfactory
+BDD0270,C00882,14746085,United Kingdom,Private Limited,Professional Services,Standard,N,28,1,4,Y,N,N,Match,Y,Y,228200,Y,N,Satisfactory
+BDD0271,C00883,14564771,United Kingdom,Private Limited,Technology,Standard,N,26,2,4,Y,Y,N,Match,Y,N,45900,Y,N,Satisfactory
+BDD0272,C00886,12752825,Pakistan,PLC,Construction,Standard,N,38,1,3,Y,Y,N,N/A (non-UK),Y,Y,4500,Y,N,Satisfactory
+BDD0273,C00890,15581816,United Kingdom,Private Limited,Real Estate,High,N,34,1,3,Y,Y,N,Match,Y,Y,70200,Y,N,Satisfactory
+BDD0274,C00892,14930631,Ireland,Foundation,Technology,Standard,N,8,4,3,Y,Y,Y,N/A (non-UK),Y,Y,6800,Y,N,Satisfactory
+BDD0275,C00893,10330393,United Kingdom,PLC,Retail,Standard,Y,13,1,3,Y,Y,N,Match,Y,Y,262400,Y,N,Satisfactory
+BDD0276,C00895,12242914,United Kingdom,Private Limited,Professional Services,Standard,N,11,4,4,N,N,Y,Match,Y,N,26800,Y,N,Rejected
+BDD0277,C00899,14057588,United Kingdom,Private Limited,Professional Services,Standard,N,13,1,2,Y,Y,N,Discrepancy,Y,Y,107400,Y,N,Remediation Required
+BDD0278,C00907,13925831,United Kingdom,Private Limited,Precious Metals,High,Y,4,3,2,N,N,Y,Match,Y,Y,95100,Y,N,Referred to EDD
+BDD0279,C00909,15183488,United States,Private Limited,Import/Export,High,N,24,1,3,Y,Y,N,N/A (non-UK),Y,Y,3900,N,N,Satisfactory
+BDD0280,C00914,13343058,Nigeria,Private Limited,Hospitality,Standard,Y,5,1,4,Y,Y,N,N/A (non-UK),Y,Y,138400,Y,N,Satisfactory
+BDD0281,C00918,12463064,United Kingdom,Private Limited,Import/Export,High,N,27,2,3,Y,N,N,Match,Y,Y,6300,Y,N,Satisfactory
+BDD0282,C00921,10901222,United Kingdom,Partnership,Retail,Standard,Y,38,2,3,Y,N,N,Match,Y,N,23500,Y,N,Satisfactory
+BDD0283,C00922,15832910,United Kingdom,Partnership,Hospitality,Standard,Y,5,1,4,Y,N,N,Match,Y,N,37900,Y,N,Satisfactory
+BDD0284,C00923,12772708,United Kingdom,Private Limited,Hospitality,Standard,Y,11,4,1,Y,Y,Y,Match,Y,Y,63700,Y,N,Satisfactory
+BDD0285,C00927,14935499,United States,Private Limited,Retail,Standard,Y,6,3,4,N,N,Y,N/A (non-UK),Y,Y,101400,Y,Y,Rejected
+BDD0286,C00929,15806024,India,Private Limited,Money Services,High,Y,31,1,3,Y,Y,N,N/A (non-UK),Y,Y,41000,Y,N,Satisfactory
+BDD0287,C00932,14022671,United Kingdom,Foundation,Retail,Standard,Y,33,4,2,N,N,Y,Match,Y,Y,97700,Y,Y,Rejected
+BDD0288,C00934,10899948,United Kingdom,Private Limited,Charity,Standard,N,25,1,3,Y,N,N,Match,Y,Y,36400,Y,N,Satisfactory
+BDD0289,C00948,13158085,United Kingdom,LLP,Professional Services,Standard,N,22,4,3,Y,Y,Y,Match,Y,Y,16200,Y,N,Satisfactory
+BDD0290,C00949,12434558,United Kingdom,Private Limited,Money Services,High,Y,20,1,3,Y,Y,N,Match,Y,N,33800,Y,N,Satisfactory
+BDD0291,C00957,13672267,United Kingdom,Partnership,Import/Export,High,N,9,3,4,Y,Y,Y,Match,Y,Y,87100,Y,N,Satisfactory
+BDD0292,C00960,11994566,France,Private Limited,Technology,Standard,N,24,4,2,Y,N,Y,N/A (non-UK),Y,N,12200,Y,Y,Rejected
+BDD0293,C00961,10873506,United Kingdom,Private Limited,Professional Services,Standard,N,13,3,2,N,N,Y,Match,Y,N,9400,N,N,Rejected
+BDD0294,C00966,14477326,United Kingdom,Private Limited,Technology,Standard,N,15,1,3,Y,Y,N,Match,Y,N,31800,Y,N,Satisfactory
+BDD0295,C00971,15400344,United Kingdom,Foundation,Hospitality,Standard,Y,32,1,1,Y,Y,N,Match,Y,Y,25500,Y,N,Satisfactory
+BDD0296,C00974,10231140,United Kingdom,Private Limited,Retail,Standard,Y,35,1,1,Y,N,N,Match,Y,Y,205800,Y,N,Satisfactory
+BDD0297,C00975,11301563,United Kingdom,Private Limited,Real Estate,High,N,8,1,2,Y,N,N,Match,Y,Y,35900,Y,N,Satisfactory
+BDD0298,C00982,12718529,United Kingdom,Private Limited,Precious Metals,High,Y,25,2,4,Y,Y,N,Match,Y,Y,142100,Y,N,Satisfactory
+BDD0299,C00983,14287860,UAE,LLP,Import/Export,High,N,24,2,2,Y,N,Y,N/A (non-UK),Y,Y,143000,Y,N,Satisfactory
+BDD0300,C00984,11587015,United Kingdom,Private Limited,Real Estate,High,N,37,1,3,Y,Y,N,Discrepancy,Y,Y,13000,Y,N,Remediation Required
+BDD0301,C00985,13436677,United Kingdom,Private Limited,Crypto Assets,High,N,20,1,4,Y,Y,N,Match,Y,N,15200,Y,N,Satisfactory
+BDD0302,C00986,11786633,Cyprus,Private Limited,Crypto Assets,High,N,16,1,3,Y,Y,Y,N/A (non-UK),Y,Y,61800,Y,N,Satisfactory
+BDD0303,C00987,12134353,United Kingdom,Private Limited,Hospitality,Standard,Y,38,2,3,Y,Y,N,Match,Y,Y,107600,Y,N,Satisfactory
+BDD0304,C00988,12443605,Ireland,PLC,Professional Services,Standard,N,37,1,3,Y,Y,N,N/A (non-UK),Y,Y,29600,Y,N,Satisfactory
+BDD0305,C00998,12258695,United Kingdom,Private Limited,Crypto Assets,High,N,30,4,3,Y,Y,Y,Match,Y,Y,20000,Y,N,Satisfactory
+BDD0306,C00999,11749942,United Kingdom,Private Limited,Retail,Standard,Y,37,2,4,Y,Y,N,Match,Y,Y,29800,Y,N,Satisfactory
+BDD0307,C01003,10992557,United Kingdom,Trust,Retail,Standard,Y,28,2,2,Y,Y,N,Match,Y,Y,24500,Y,N,Satisfactory
+BDD0308,C01004,13406457,UAE,LLP,Technology,Standard,N,13,1,1,N,N,Y,N/A (non-UK),Y,Y,40300,N,N,Referred to EDD
+BDD0309,C01006,14633094,United States,Trust,Construction,Standard,N,30,4,4,Y,Y,Y,N/A (non-UK),Y,Y,39900,Y,N,Satisfactory
+BDD0310,C01009,11723119,United Kingdom,Private Limited,Professional Services,Standard,N,39,2,2,Y,Y,N,Match,Y,Y,28100,Y,N,Satisfactory
+BDD0311,C01014,11811298,United States,Trust,Construction,Standard,N,37,4,4,Y,Y,Y,N/A (non-UK),Y,Y,33100,Y,N,Satisfactory
+BDD0312,C01015,15504052,Russia,Partnership,Crypto Assets,High,N,30,2,3,Y,Y,N,N/A (non-UK),Y,Y,26200,Y,N,Satisfactory
+BDD0313,C01018,11821218,United Kingdom,Private Limited,Hospitality,Standard,Y,10,2,3,Y,N,N,Match,Y,Y,5200,Y,N,Satisfactory
+BDD0314,C01020,12684535,United Kingdom,Private Limited,Technology,Standard,N,30,2,3,Y,Y,N,Match,Y,Y,37700,Y,N,Satisfactory
+BDD0315,C01023,12052292,United Kingdom,Private Limited,Hospitality,Standard,Y,1,4,2,Y,Y,Y,Match,Y,Y,3200,Y,Y,Referred to EDD
+BDD0316,C01030,10930505,United Kingdom,Partnership,Hospitality,Standard,Y,25,2,3,Y,Y,N,Match,Y,Y,26400,Y,N,Satisfactory
+BDD0317,C01031,12272285,United Kingdom,LLP,Precious Metals,High,Y,11,1,2,Y,Y,N,Match,Y,Y,9900,Y,N,Satisfactory
+BDD0318,C01034,11734774,United Kingdom,PLC,Retail,Standard,Y,6,2,4,Y,Y,N,Match,Y,Y,58200,N,N,Satisfactory
+BDD0319,C01035,11971881,United Kingdom,Trust,Real Estate,High,N,36,1,3,Y,Y,N,Match,Y,Y,59300,Y,N,Satisfactory
+BDD0320,C01042,14783740,United Kingdom,Private Limited,Professional Services,Standard,N,29,2,2,Y,Y,N,Match,Y,Y,107600,Y,N,Satisfactory
+BDD0321,C01043,15397376,France,Private Limited,Hospitality,Standard,Y,27,2,2,Y,N,N,N/A (non-UK),Y,Y,8300,Y,N,Satisfactory
+BDD0322,C01044,10653576,United Kingdom,Private Limited,Retail,Standard,Y,24,1,4,Y,Y,N,Match,Y,Y,12900,Y,N,Satisfactory
+BDD0323,C01047,11043663,Russia,Trust,Import/Export,High,N,6,3,2,Y,Y,Y,N/A (non-UK),Y,Y,114300,Y,N,Satisfactory
+BDD0324,C01048,12278330,United Kingdom,LLP,Technology,Standard,N,21,3,2,N,N,Y,Match,Y,N,254300,Y,Y,Rejected
+BDD0325,C01050,13234019,United States,Private Limited,Hospitality,Standard,Y,13,1,1,Y,Y,N,N/A (non-UK),Y,Y,114200,Y,N,Satisfactory
+BDD0326,C01052,15692618,India,Foundation,Construction,Standard,N,39,2,3,Y,Y,N,N/A (non-UK),Y,Y,85600,N,N,Satisfactory
+BDD0327,C01060,14970160,United Kingdom,Private Limited,Real Estate,High,N,24,1,1,Y,Y,N,Match,Y,Y,96800,Y,N,Satisfactory
+BDD0328,C01063,10007057,Germany,Private Limited,Precious Metals,High,Y,34,2,2,Y,Y,N,N/A (non-UK),Y,Y,38100,Y,N,Satisfactory
+BDD0329,C01066,14236218,United Kingdom,Private Limited,Hospitality,Standard,Y,6,4,4,Y,Y,Y,Match,Y,Y,61300,Y,N,Satisfactory
+BDD0330,C01067,15827483,India,Private Limited,Hospitality,Standard,Y,11,2,2,Y,Y,N,N/A (non-UK),Y,Y,47100,Y,N,Satisfactory
+BDD0331,C01069,11084931,United Kingdom,Trust,Real Estate,High,N,23,1,1,Y,Y,N,Match,Y,Y,37100,Y,N,Satisfactory
+BDD0332,C01072,12154498,Cyprus,Private Limited,Professional Services,Standard,N,38,1,4,N,N,Y,N/A (non-UK),Y,Y,12800,N,N,Rejected
+BDD0333,C01074,11551873,United Kingdom,LLP,Technology,Standard,N,2,1,1,Y,Y,N,Match,Y,Y,45400,Y,N,Satisfactory
+BDD0334,C01076,11266393,United Kingdom,Private Limited,Professional Services,Standard,N,4,3,3,N,N,Y,Match,Y,Y,158800,Y,Y,Referred to EDD
+BDD0335,C01081,12391861,United Kingdom,Private Limited,Retail,Standard,Y,29,4,1,Y,Y,Y,Match,Y,Y,323800,Y,N,Satisfactory
+BDD0336,C01086,14953014,United Kingdom,Trust,Precious Metals,High,Y,4,1,3,Y,Y,N,Match,Y,Y,48200,Y,N,Satisfactory
+BDD0337,C01088,10454153,United Kingdom,PLC,Import/Export,High,N,12,1,4,Y,Y,N,Match,Y,Y,74800,N,N,Satisfactory
+BDD0338,C01093,12815585,United Kingdom,Trust,Technology,Standard,N,26,2,3,Y,Y,N,Discrepancy,Y,Y,8800,N,N,Remediation Required
+BDD0339,C01094,15479706,United Kingdom,Private Limited,Professional Services,Standard,N,17,3,1,Y,Y,Y,Match,Y,N,33200,Y,N,Satisfactory
+BDD0340,C01095,10633845,France,Private Limited,Professional Services,Standard,N,30,4,1,N,N,Y,N/A (non-UK),Y,N,28100,Y,N,Rejected
+BDD0341,C01100,14642561,United Kingdom,Private Limited,Construction,Standard,N,0,4,1,Y,N,Y,Match,Y,N,5900,Y,N,Satisfactory
+BDD0342,C01103,14000709,India,Private Limited,Import/Export,High,N,25,2,2,Y,N,N,N/A (non-UK),Y,Y,65800,N,N,Satisfactory
+BDD0343,C01104,11228160,United Kingdom,Private Limited,Hospitality,Standard,Y,25,2,4,Y,N,N,Match,Y,Y,39300,Y,N,Satisfactory
+BDD0344,C01111,14668256,United Kingdom,Private Limited,Money Services,High,Y,10,1,1,Y,Y,N,Match,Y,Y,47300,Y,N,Satisfactory
+BDD0345,C01112,11333847,India,Private Limited,Construction,Standard,N,27,1,3,Y,N,N,N/A (non-UK),Y,Y,65600,Y,N,Satisfactory
+BDD0346,C01123,12705669,Hong Kong,Private Limited,Import/Export,High,N,17,4,3,Y,Y,Y,N/A (non-UK),Y,Y,60100,Y,N,Satisfactory
+BDD0347,C01126,15388586,Panama,Private Limited,Hospitality,Standard,Y,34,1,3,Y,Y,Y,N/A (non-UK),Y,Y,15100,N,N,Satisfactory
+BDD0348,C01129,14286878,UAE,Private Limited,Technology,Standard,N,30,2,4,Y,Y,Y,N/A (non-UK),Y,Y,89800,Y,Y,Rejected
+BDD0349,C01141,12926944,United Kingdom,Private Limited,Retail,Standard,Y,29,1,3,Y,Y,N,Match,Y,Y,101800,Y,N,Satisfactory
+BDD0350,C01149,10642853,Ireland,Foundation,Precious Metals,High,Y,20,1,1,Y,Y,N,N/A (non-UK),Y,Y,33900,Y,N,Satisfactory
+BDD0351,C01150,10595915,United Kingdom,Private Limited,Professional Services,Standard,N,27,3,4,N,N,Y,Match,Y,Y,23100,Y,N,Referred to EDD
+BDD0352,C01156,10191148,United Kingdom,Private Limited,Technology,Standard,N,5,2,2,Y,Y,N,Match,Y,Y,17700,Y,N,Satisfactory
+BDD0353,C01157,10365165,India,Private Limited,Hospitality,Standard,Y,16,1,2,Y,Y,N,N/A (non-UK),Y,N,22400,Y,N,Satisfactory
+BDD0354,C01158,11313742,United Kingdom,Private Limited,Hospitality,Standard,Y,14,1,4,Y,Y,N,Match,Y,Y,45200,Y,N,Satisfactory
+BDD0355,C01160,13067857,United Kingdom,Partnership,Money Services,High,Y,2,2,4,Y,Y,N,Match,Y,Y,142600,Y,N,Satisfactory
+BDD0356,C01164,15885056,India,PLC,Retail,Standard,Y,32,1,1,Y,Y,N,N/A (non-UK),Y,Y,140500,Y,N,Satisfactory
+BDD0357,C01166,15073439,United Kingdom,Private Limited,Professional Services,Standard,N,25,3,2,Y,Y,Y,Match,Y,Y,155900,Y,N,Satisfactory
+BDD0358,C01168,11052599,United Kingdom,Private Limited,Retail,Standard,Y,13,2,2,Y,Y,N,Discrepancy,Y,Y,31800,Y,N,Remediation Required
+BDD0359,C01171,15195143,United Kingdom,PLC,Charity,Standard,N,0,2,4,Y,Y,N,Match,Y,Y,85900,Y,N,Satisfactory
+BDD0360,C01179,15518234,United Kingdom,Private Limited,Charity,Standard,N,38,3,1,N,N,Y,Match,Y,Y,128900,Y,Y,Rejected
+BDD0361,C01185,13509316,United Kingdom,Private Limited,Construction,Standard,N,26,4,2,N,N,Y,Match,Y,Y,65600,Y,N,Rejected
+BDD0362,C01186,11782570,United Kingdom,Private Limited,Crypto Assets,High,N,32,1,2,Y,Y,N,Match,Y,N,27800,Y,N,Satisfactory
+BDD0363,C01199,12104991,UAE,Private Limited,Professional Services,Standard,N,2,2,1,Y,N,Y,N/A (non-UK),Y,Y,168500,Y,N,Satisfactory
+BDD0364,C01203,12949816,United Kingdom,Trust,Hospitality,Standard,Y,36,2,3,Y,Y,N,Match,Y,Y,26100,Y,N,Satisfactory
+BDD0365,C01205,11427908,United Kingdom,Private Limited,Technology,Standard,N,2,2,1,Y,Y,N,Match,Y,Y,143600,Y,N,Satisfactory
+BDD0366,C01206,14225228,United Kingdom,Private Limited,Professional Services,Standard,N,36,3,2,Y,Y,Y,Match,Y,Y,69000,Y,N,Satisfactory
+BDD0367,C01210,13994966,Ireland,Private Limited,Money Services,High,Y,22,1,4,Y,Y,N,N/A (non-UK),Y,Y,102200,Y,N,Satisfactory
+BDD0368,C01212,11019371,India,Private Limited,Professional Services,Standard,N,34,4,4,Y,Y,Y,N/A (non-UK),Y,N,56700,Y,N,Satisfactory
+BDD0369,C01219,10208889,Hong Kong,Foundation,Real Estate,High,N,36,3,1,N,N,Y,N/A (non-UK),Y,Y,45600,Y,Y,Referred to EDD
+BDD0370,C01220,11197952,Germany,Private Limited,Professional Services,Standard,N,35,1,2,Y,Y,N,N/A (non-UK),Y,Y,22800,N,N,Satisfactory
+BDD0371,C01224,12288890,United Kingdom,Private Limited,Import/Export,High,N,28,1,1,Y,Y,N,Match,Y,Y,112300,Y,N,Satisfactory
+BDD0372,C01226,11518471,India,LLP,Hospitality,Standard,Y,4,1,1,Y,Y,N,N/A (non-UK),Y,Y,112900,Y,N,Satisfactory
+BDD0373,C01231,13373430,Hong Kong,LLP,Technology,Standard,N,28,2,1,N,N,Y,N/A (non-UK),Y,Y,104100,Y,N,Referred to EDD
+BDD0374,C01234,12862397,United Kingdom,Private Limited,Retail,Standard,Y,21,4,4,Y,N,Y,Match,Y,Y,479800,Y,Y,Referred to EDD
+BDD0375,C01235,12344753,United Kingdom,Private Limited,Professional Services,Standard,N,31,1,3,Y,Y,N,Match,Y,Y,128300,Y,N,Satisfactory
+BDD0376,C01236,12076336,France,Private Limited,Crypto Assets,High,N,39,4,1,Y,N,Y,N/A (non-UK),Y,Y,111400,Y,N,Satisfactory
+BDD0377,C01239,14351032,United Kingdom,Private Limited,Charity,Standard,N,18,3,2,Y,Y,Y,Match,Y,N,44600,N,N,Satisfactory
+BDD0378,C01242,10515695,United Kingdom,Private Limited,Professional Services,Standard,N,10,3,3,Y,Y,Y,Match,Y,Y,17200,Y,N,Satisfactory
+BDD0379,C01245,12110012,United Kingdom,Private Limited,Technology,Standard,N,29,1,2,Y,Y,N,Match,Y,Y,20900,Y,N,Satisfactory
+BDD0380,C01251,11603510,Germany,LLP,Real Estate,High,N,9,1,2,Y,Y,N,N/A (non-UK),Y,Y,64600,N,N,Satisfactory
+BDD0381,C01252,14639549,Nigeria,LLP,Construction,Standard,N,19,2,1,Y,Y,N,N/A (non-UK),Y,Y,80900,Y,N,Satisfactory
+BDD0382,C01255,14964672,United Kingdom,Private Limited,Crypto Assets,High,N,28,4,1,Y,Y,Y,Match,Y,Y,26600,Y,N,Satisfactory
+BDD0383,C01272,15065324,Nigeria,Private Limited,Precious Metals,High,Y,37,3,1,N,N,Y,N/A (non-UK),Y,Y,65900,Y,N,Rejected
+BDD0384,C01274,13099312,Nigeria,Private Limited,Money Services,High,Y,29,2,1,Y,Y,N,N/A (non-UK),Y,N,112100,Y,N,Satisfactory
+BDD0385,C01275,15514791,United Kingdom,LLP,Hospitality,Standard,Y,28,3,4,Y,Y,Y,Match,Y,Y,83600,Y,N,Satisfactory
+BDD0386,C01278,15684550,United Kingdom,Private Limited,Construction,Standard,N,20,1,4,Y,Y,N,Match,Y,Y,151200,Y,N,Satisfactory
+BDD0387,C01284,15458514,India,LLP,Retail,Standard,Y,12,1,3,Y,N,N,N/A (non-UK),Y,N,38500,Y,N,Satisfactory
+BDD0388,C01285,11664273,United Kingdom,Private Limited,Import/Export,High,N,34,3,1,Y,N,Y,Match,Y,N,56800,Y,N,Satisfactory
+BDD0389,C01287,12184405,United Kingdom,Partnership,Money Services,High,Y,14,3,1,Y,Y,Y,Discrepancy,Y,Y,33900,Y,N,Remediation Required
+BDD0390,C01289,11572136,United Kingdom,Private Limited,Technology,Standard,N,8,2,4,Y,Y,N,Match,Y,Y,22800,Y,N,Satisfactory
+BDD0391,C01291,13947832,United Kingdom,Private Limited,Technology,Standard,N,25,1,2,Y,N,N,Match,Y,Y,20200,Y,N,Satisfactory
+BDD0392,C01292,12554165,United Kingdom,Private Limited,Import/Export,High,N,36,1,3,Y,Y,N,Match,Y,Y,89700,Y,N,Satisfactory
+BDD0393,C01295,13832947,France,Private Limited,Real Estate,High,N,18,1,3,Y,Y,N,N/A (non-UK),Y,N,51700,Y,N,Satisfactory
+BDD0394,C01298,10476486,United Kingdom,Private Limited,Money Services,High,Y,14,3,3,Y,Y,Y,Match,Y,Y,32000,Y,Y,Referred to EDD
+BDD0395,C01303,10811762,United Kingdom,Partnership,Precious Metals,High,Y,6,2,2,Y,Y,N,Match,Y,Y,147200,Y,N,Satisfactory
+BDD0396,C01307,11897553,United Kingdom,LLP,Import/Export,High,N,32,3,3,Y,Y,Y,Match,Y,Y,252500,Y,N,Satisfactory
+BDD0397,C01309,15854316,United Kingdom,Private Limited,Professional Services,Standard,N,25,1,4,Y,Y,N,Match,Y,Y,27200,Y,N,Satisfactory
+BDD0398,C01310,12162809,India,LLP,Real Estate,High,N,7,3,4,Y,Y,Y,N/A (non-UK),Y,Y,11200,Y,N,Satisfactory
+BDD0399,C01311,11634366,United Kingdom,LLP,Professional Services,Standard,N,24,2,3,Y,Y,N,Match,Y,Y,143800,Y,N,Satisfactory
+BDD0400,C01312,13729876,United Kingdom,Private Limited,Retail,Standard,Y,14,1,1,Y,N,N,Match,Y,Y,11000,N,N,Satisfactory
+BDD0401,C01313,15970250,United Kingdom,Private Limited,Retail,Standard,Y,0,4,1,N,N,Y,Match,Y,Y,8400,Y,Y,Referred to EDD
+BDD0402,C01314,10851881,United Kingdom,Private Limited,Precious Metals,High,Y,25,1,2,Y,Y,N,Match,Y,Y,16600,Y,N,Satisfactory
+BDD0403,C01316,12232613,United Kingdom,PLC,Hospitality,Standard,Y,15,1,4,Y,Y,N,Match,Y,Y,65300,Y,N,Satisfactory
+BDD0404,C01319,15331931,United Kingdom,Private Limited,Professional Services,Standard,N,8,3,4,Y,Y,Y,Match,Y,Y,47800,N,N,Satisfactory
+BDD0405,C01320,15723540,United Kingdom,Private Limited,Charity,Standard,N,29,2,2,Y,N,N,Match,Y,Y,50700,Y,N,Satisfactory
+BDD0406,C01321,15257334,United Kingdom,Private Limited,Real Estate,High,N,8,3,1,N,N,Y,Match,Y,Y,7700,Y,N,Referred to EDD
+BDD0407,C01329,12138278,France,PLC,Technology,Standard,N,7,2,3,Y,Y,N,N/A (non-UK),Y,Y,13200,Y,N,Satisfactory
+BDD0408,C01331,13178561,United Kingdom,Private Limited,Professional Services,Standard,N,7,4,3,Y,Y,Y,Match,Y,Y,60400,Y,Y,Rejected
+BDD0409,C01336,15243402,United Kingdom,Trust,Construction,Standard,N,34,1,1,Y,Y,N,Match,Y,Y,30000,N,N,Satisfactory
+BDD0410,C01339,12525070,United Kingdom,LLP,Hospitality,Standard,Y,17,2,4,Y,Y,N,Match,Y,Y,109600,Y,N,Satisfactory
+BDD0411,C01340,15325735,United Kingdom,Private Limited,Precious Metals,High,Y,22,1,4,Y,Y,N,Match,Y,Y,93500,Y,N,Satisfactory
+BDD0412,C01347,14191257,Ireland,Foundation,Construction,Standard,N,33,1,4,Y,N,N,N/A (non-UK),Y,Y,12100,Y,N,Satisfactory
+BDD0413,C01351,11133150,United Kingdom,PLC,Retail,Standard,Y,16,4,3,N,N,Y,Match,Y,Y,120800,N,N,Rejected
+BDD0414,C01353,11223404,UAE,Private Limited,Retail,Standard,Y,10,1,4,Y,Y,Y,N/A (non-UK),Y,Y,34200,Y,N,Satisfactory
+BDD0415,C01354,13499456,United Kingdom,Private Limited,Technology,Standard,N,39,2,1,Y,Y,N,Match,Y,Y,22100,N,N,Satisfactory
+BDD0416,C01359,13383925,Pakistan,Private Limited,Money Services,High,Y,24,1,1,Y,Y,N,N/A (non-UK),Y,Y,51200,Y,N,Satisfactory
+BDD0417,C01361,15271673,Russia,Private Limited,Charity,Standard,N,25,1,1,Y,Y,N,N/A (non-UK),Y,Y,40800,Y,N,Satisfactory
+BDD0418,C01369,11722782,United Kingdom,Trust,Construction,Standard,N,11,2,3,Y,Y,N,Match,Y,Y,25300,N,N,Satisfactory
+BDD0419,C01371,14323779,United Kingdom,Private Limited,Professional Services,Standard,N,37,1,2,Y,Y,N,Match,Y,Y,79200,Y,N,Satisfactory
+BDD0420,C01378,15536991,United Kingdom,Private Limited,Import/Export,High,N,13,2,3,Y,Y,N,Match,Y,Y,159400,Y,N,Satisfactory
+BDD0421,C01387,14247451,United Kingdom,Private Limited,Crypto Assets,High,N,39,3,1,N,N,Y,Match,Y,Y,53000,Y,N,Rejected
+BDD0422,C01389,12882741,United Kingdom,Partnership,Hospitality,Standard,Y,24,2,2,Y,Y,N,Match,Y,N,48200,Y,N,Satisfactory
+BDD0423,C01392,15680264,Cyprus,Trust,Charity,Standard,N,18,1,2,Y,Y,Y,N/A (non-UK),Y,Y,54500,Y,Y,Rejected
+BDD0424,C01394,13036288,United Kingdom,Private Limited,Hospitality,Standard,Y,28,2,3,Y,Y,N,Match,Y,Y,23400,N,N,Satisfactory
+BDD0425,C01397,12579880,United Kingdom,Private Limited,Crypto Assets,High,N,14,1,2,Y,Y,N,Match,Y,Y,73800,Y,N,Satisfactory
+BDD0426,C01402,14575242,United Kingdom,LLP,Crypto Assets,High,N,33,1,4,Y,Y,N,Match,Y,Y,19300,Y,N,Satisfactory
+BDD0427,C01405,10882343,Cyprus,Private Limited,Charity,Standard,N,34,2,1,Y,Y,Y,N/A (non-UK),Y,Y,26500,N,N,Satisfactory
+BDD0428,C01407,14705887,United Kingdom,Private Limited,Professional Services,Standard,N,3,4,3,Y,Y,Y,Match,Y,N,120600,Y,N,Satisfactory
+BDD0429,C01410,11424357,United Kingdom,Private Limited,Real Estate,High,N,0,1,1,Y,Y,N,Match,Y,Y,344600,Y,N,Satisfactory
+BDD0430,C01414,11411840,United Kingdom,Foundation,Money Services,High,Y,2,1,2,Y,Y,N,Match,Y,Y,65200,N,N,Satisfactory
+BDD0431,C01415,10660431,United Kingdom,PLC,Hospitality,Standard,Y,18,3,3,N,N,Y,Discrepancy,Y,Y,26200,Y,N,Referred to EDD
+BDD0432,C01418,13657828,United Kingdom,Private Limited,Technology,Standard,N,26,1,4,Y,Y,N,Match,Y,Y,192100,Y,N,Satisfactory
+BDD0433,C01423,10777940,Hong Kong,Private Limited,Professional Services,Standard,N,25,1,4,N,N,Y,N/A (non-UK),Y,Y,8100,Y,N,Rejected
+BDD0434,C01424,15195661,United States,Trust,Real Estate,High,N,10,1,2,Y,Y,N,N/A (non-UK),Y,Y,17300,Y,N,Satisfactory
+BDD0435,C01425,10377680,United Kingdom,Trust,Real Estate,High,N,32,1,4,Y,Y,N,Match,Y,Y,23800,Y,N,Satisfactory
+BDD0436,C01434,12478641,Germany,Private Limited,Professional Services,Standard,N,3,1,3,Y,Y,N,N/A (non-UK),Y,Y,29000,Y,N,Satisfactory
+BDD0437,C01437,12554192,Cyprus,Trust,Import/Export,High,N,27,2,4,Y,Y,Y,N/A (non-UK),Y,Y,49300,Y,N,Satisfactory
+BDD0438,C01438,10666676,United Kingdom,PLC,Real Estate,High,N,18,4,3,Y,Y,Y,Match,Y,Y,117800,Y,N,Satisfactory
+BDD0439,C01439,15414272,Pakistan,Private Limited,Professional Services,Standard,N,0,2,1,Y,Y,N,N/A (non-UK),Y,N,68400,Y,N,Satisfactory
+BDD0440,C01441,15210910,United Kingdom,Private Limited,Technology,Standard,N,34,3,3,Y,N,Y,Match,Y,N,276200,Y,N,Satisfactory
+BDD0441,C01448,15752225,United Kingdom,Trust,Technology,Standard,N,26,4,2,N,N,Y,Match,Y,Y,214200,Y,Y,Rejected
+BDD0442,C01456,15375215,Hong Kong,Private Limited,Real Estate,High,N,22,2,2,N,N,Y,N/A (non-UK),Y,N,231200,Y,Y,Rejected
+BDD0443,C01457,10668995,France,Private Limited,Technology,Standard,N,26,2,1,Y,Y,N,N/A (non-UK),Y,Y,51400,Y,N,Satisfactory
+BDD0444,C01460,10918452,United Kingdom,Private Limited,Charity,Standard,N,12,1,2,Y,N,N,Match,Y,Y,16900,Y,N,Satisfactory
+BDD0445,C01461,15610844,United Kingdom,Private Limited,Real Estate,High,N,0,3,3,N,N,Y,Match,Y,Y,298200,Y,N,Referred to EDD
+BDD0446,C01463,11289366,France,Private Limited,Hospitality,Standard,Y,15,1,1,Y,Y,N,N/A (non-UK),Y,Y,220700,Y,N,Satisfactory
+BDD0447,C01464,13833197,United Kingdom,Private Limited,Retail,Standard,Y,11,4,2,Y,Y,Y,Match,Y,Y,98800,Y,N,Satisfactory
+BDD0448,C01465,11434881,Ireland,Partnership,Precious Metals,High,Y,27,2,3,Y,Y,N,N/A (non-UK),Y,Y,6000,Y,N,Satisfactory
+BDD0449,C01474,14407601,Hong Kong,Private Limited,Hospitality,Standard,Y,18,1,2,Y,Y,Y,N/A (non-UK),Y,N,83200,Y,N,Satisfactory
+BDD0450,C01477,15009830,United Kingdom,Partnership,Professional Services,Standard,N,38,1,4,Y,Y,N,Match,Y,Y,54800,Y,N,Satisfactory
+BDD0451,C01478,10782759,United Kingdom,Foundation,Charity,Standard,N,25,2,4,Y,Y,N,Match,Y,Y,188400,Y,N,Satisfactory
+BDD0452,C01479,15734655,United Kingdom,Private Limited,Real Estate,High,N,27,1,2,Y,Y,N,Match,Y,Y,57900,Y,N,Satisfactory
+BDD0453,C01480,12186009,United Kingdom,Partnership,Technology,Standard,N,27,3,4,Y,Y,Y,Match,Y,Y,187000,Y,N,Satisfactory
+BDD0454,C01481,12369537,Pakistan,LLP,Technology,Standard,N,11,3,3,Y,Y,Y,N/A (non-UK),Y,Y,7700,N,N,Satisfactory
+BDD0455,C01486,15606086,United Kingdom,Private Limited,Charity,Standard,N,21,2,2,Y,Y,N,Match,Y,Y,121100,Y,N,Satisfactory
+BDD0456,C01493,13988352,Russia,Private Limited,Hospitality,Standard,Y,36,3,3,Y,Y,Y,N/A (non-UK),Y,Y,35500,Y,Y,Rejected
+BDD0457,C01495,10123854,France,LLP,Professional Services,Standard,N,39,1,1,Y,Y,N,N/A (non-UK),Y,Y,110400,Y,N,Satisfactory
+BDD0458,C01499,12033153,France,Private Limited,Hospitality,Standard,Y,12,4,3,N,N,Y,N/A (non-UK),Y,Y,38600,Y,N,Referred to EDD
+BDD0459,C01501,12378937,United Kingdom,Private Limited,Import/Export,High,N,27,1,4,Y,Y,N,Discrepancy,Y,Y,10200,N,N,Remediation Required
+BDD0460,C01504,15421517,France,Private Limited,Crypto Assets,High,N,3,2,4,Y,Y,N,N/A (non-UK),Y,Y,86800,N,N,Satisfactory
+BDD0461,C01507,10696636,United Kingdom,Private Limited,Real Estate,High,N,6,1,1,Y,Y,N,Match,Y,Y,12600,Y,N,Satisfactory
+BDD0462,C01512,15309643,United Kingdom,Private Limited,Technology,Standard,N,16,2,4,Y,Y,N,Match,Y,Y,17200,N,N,Satisfactory
+BDD0463,C01513,15912698,United Kingdom,Partnership,Hospitality,Standard,Y,29,1,2,Y,Y,N,Match,Y,Y,34500,Y,N,Satisfactory
+BDD0464,C01515,11389746,Russia,Private Limited,Construction,Standard,N,7,2,4,Y,Y,N,N/A (non-UK),Y,Y,22100,Y,N,Satisfactory
+BDD0465,C01519,11178599,United Kingdom,LLP,Construction,Standard,N,8,1,3,Y,Y,N,Match,Y,N,65100,Y,N,Satisfactory
+BDD0466,C01523,15913612,United Kingdom,Private Limited,Real Estate,High,N,28,4,2,Y,Y,Y,Match,Y,N,224100,Y,Y,Referred to EDD
+BDD0467,C01526,15605578,United Kingdom,Partnership,Money Services,High,Y,6,1,2,Y,Y,N,Match,Y,Y,8000,Y,N,Satisfactory
+BDD0468,C01532,12541779,Cyprus,Trust,Import/Export,High,N,2,1,1,N,N,Y,N/A (non-UK),Y,Y,72700,Y,Y,Referred to EDD
+BDD0469,C01535,14659485,United Kingdom,Private Limited,Real Estate,High,N,25,2,3,Y,Y,N,Match,Y,Y,15000,Y,N,Satisfactory
+BDD0470,C01538,15837539,United Kingdom,Private Limited,Precious Metals,High,Y,20,1,2,Y,Y,N,Match,Y,Y,26800,N,N,Satisfactory
+BDD0471,C01540,15344657,United Kingdom,LLP,Retail,Standard,Y,20,2,2,Y,Y,N,Match,Y,Y,77100,Y,N,Satisfactory
+BDD0472,C01541,11924518,UAE,Foundation,Technology,Standard,N,22,2,3,Y,Y,Y,N/A (non-UK),Y,Y,75700,Y,N,Satisfactory
+BDD0473,C01548,13048681,India,Private Limited,Precious Metals,High,Y,37,2,2,Y,N,N,N/A (non-UK),Y,N,6100,Y,N,Satisfactory
+BDD0474,C01549,10562111,India,PLC,Money Services,High,Y,37,2,1,Y,Y,N,N/A (non-UK),Y,Y,56600,Y,N,Satisfactory
+BDD0475,C01550,13071106,France,Private Limited,Technology,Standard,N,23,3,4,Y,Y,Y,N/A (non-UK),Y,N,126400,Y,N,Satisfactory
+BDD0476,C01555,10264357,United Kingdom,Foundation,Construction,Standard,N,26,2,4,Y,Y,N,Match,Y,N,249800,Y,N,Satisfactory
+BDD0477,C01558,10885338,Cyprus,Partnership,Retail,Standard,Y,20,3,4,Y,Y,Y,N/A (non-UK),Y,Y,15300,N,N,Satisfactory
+BDD0478,C01563,12365509,United Kingdom,Trust,Construction,Standard,N,14,4,4,N,N,Y,Match,Y,N,84300,Y,N,Referred to EDD
+BDD0479,C01565,10748866,India,Private Limited,Precious Metals,High,Y,5,1,1,Y,N,N,N/A (non-UK),Y,Y,146300,Y,N,Satisfactory
+BDD0480,C01566,11671043,United Kingdom,Private Limited,Technology,Standard,N,25,4,3,N,N,Y,Match,Y,Y,62200,Y,Y,Rejected
+BDD0481,C01567,13965100,United Kingdom,Private Limited,Real Estate,High,N,34,2,1,Y,N,N,Match,Y,Y,17300,Y,N,Satisfactory
+BDD0482,C01570,15710649,Cyprus,Private Limited,Crypto Assets,High,N,28,1,3,Y,Y,Y,N/A (non-UK),Y,Y,8100,Y,Y,Referred to EDD
+BDD0483,C01573,11647235,France,Private Limited,Professional Services,Standard,N,12,3,4,Y,Y,Y,N/A (non-UK),Y,Y,140000,Y,N,Satisfactory
+BDD0484,C01575,13816673,United Kingdom,Private Limited,Import/Export,High,N,24,2,2,Y,Y,N,Match,Y,Y,100800,Y,N,Satisfactory
+BDD0485,C01576,12848458,Ireland,Private Limited,Professional Services,Standard,N,16,2,3,Y,Y,N,N/A (non-UK),Y,Y,82900,Y,N,Satisfactory
+BDD0486,C01577,13946157,United States,Private Limited,Construction,Standard,N,38,2,4,Y,Y,N,N/A (non-UK),Y,Y,47900,Y,N,Satisfactory
+BDD0487,C01579,10735898,UAE,Private Limited,Charity,Standard,N,20,1,3,Y,Y,Y,N/A (non-UK),Y,Y,45700,Y,N,Satisfactory
+BDD0488,C01581,14368703,United Kingdom,Private Limited,Crypto Assets,High,N,18,2,2,Y,Y,N,Match,Y,Y,442600,Y,N,Satisfactory
+BDD0489,C01582,13536465,United Kingdom,Private Limited,Technology,Standard,N,38,3,4,N,N,Y,Match,Y,Y,13000,Y,N,Rejected
+BDD0490,C01583,13481209,United Kingdom,LLP,Technology,Standard,N,7,3,1,Y,Y,Y,Match,Y,Y,2100,Y,N,Satisfactory
+BDD0491,C01591,10466769,United Kingdom,LLP,Precious Metals,High,Y,10,1,2,Y,Y,N,Match,Y,N,94200,Y,N,Satisfactory
+BDD0492,C01592,15796454,United Kingdom,Private Limited,Retail,Standard,Y,8,1,4,Y,Y,N,Match,Y,Y,68300,N,N,Satisfactory
+BDD0493,C01594,11045164,UAE,Private Limited,Retail,Standard,Y,27,3,3,Y,Y,Y,N/A (non-UK),Y,Y,128600,Y,N,Satisfactory
+BDD0494,C01598,10084450,United Kingdom,Foundation,Professional Services,Standard,N,27,1,4,Y,Y,N,Match,Y,Y,90800,Y,N,Satisfactory
+BDD0495,C01599,10881714,Pakistan,Private Limited,Import/Export,High,N,28,4,2,Y,Y,Y,N/A (non-UK),Y,Y,121200,Y,N,Satisfactory
+BDD0496,C01600,14087278,Ireland,Trust,Professional Services,Standard,N,37,2,2,Y,Y,N,N/A (non-UK),Y,Y,9000,Y,N,Satisfactory
+BDD0497,C01601,10825756,Russia,Private Limited,Retail,Standard,Y,0,3,2,Y,Y,Y,N/A (non-UK),Y,N,41400,Y,N,Satisfactory
+BDD0498,C01602,15639516,Pakistan,Private Limited,Technology,Standard,N,9,1,3,Y,Y,N,N/A (non-UK),Y,Y,17200,Y,N,Satisfactory
+BDD0499,C01606,13751262,United Kingdom,Partnership,Professional Services,Standard,N,15,2,3,Y,Y,N,Discrepancy,Y,N,24000,Y,N,Remediation Required
+BDD0500,C01609,11911987,United Kingdom,LLP,Crypto Assets,High,N,8,1,3,Y,Y,N,Match,Y,N,207200,Y,N,Satisfactory
+BDD0501,C01611,10219241,Germany,PLC,Real Estate,High,N,1,1,1,Y,N,N,N/A (non-UK),Y,N,135400,Y,N,Satisfactory
+BDD0502,C01613,10578115,Russia,Private Limited,Technology,Standard,N,9,1,4,Y,Y,N,N/A (non-UK),Y,Y,308800,Y,N,Satisfactory
+BDD0503,C01614,14039786,United Kingdom,Foundation,Import/Export,High,N,5,1,4,Y,Y,N,Match,Y,N,63300,Y,N,Satisfactory
+BDD0504,C01616,12898694,Hong Kong,Private Limited,Retail,Standard,Y,37,4,3,Y,Y,Y,N/A (non-UK),Y,Y,25300,Y,N,Satisfactory
+BDD0505,C01620,14042835,United Kingdom,Private Limited,Real Estate,High,N,3,1,1,Y,Y,N,Match,Y,Y,12100,Y,N,Satisfactory
+BDD0506,C01623,12352926,United Kingdom,Private Limited,Import/Export,High,N,8,3,2,Y,Y,Y,Discrepancy,Y,Y,94800,N,N,Remediation Required
+BDD0507,C01628,11196595,United Kingdom,LLP,Money Services,High,Y,10,2,2,Y,Y,N,Match,Y,N,46800,Y,N,Satisfactory
+BDD0508,C01631,15307966,United States,Private Limited,Construction,Standard,N,28,3,3,N,N,Y,N/A (non-UK),Y,Y,21300,Y,N,Rejected
+BDD0509,C01633,12838316,United Kingdom,Partnership,Real Estate,High,N,27,2,2,Y,Y,N,Match,Y,Y,225700,N,N,Satisfactory
+BDD0510,C01635,15555215,Nigeria,Private Limited,Construction,Standard,N,34,2,4,Y,Y,N,N/A (non-UK),Y,Y,42300,Y,N,Satisfactory
+BDD0511,C01636,11056306,Germany,Private Limited,Hospitality,Standard,Y,5,4,3,Y,Y,Y,N/A (non-UK),Y,Y,17800,Y,N,Satisfactory
+BDD0512,C01637,13623034,UAE,Private Limited,Retail,Standard,Y,34,1,1,Y,Y,Y,N/A (non-UK),Y,Y,24400,Y,N,Satisfactory
+BDD0513,C01640,11788885,United States,Foundation,Money Services,High,Y,15,2,2,Y,Y,N,N/A (non-UK),Y,N,87600,N,N,Satisfactory
+BDD0514,C01644,11763532,United Kingdom,LLP,Professional Services,Standard,N,32,4,3,N,N,Y,Match,Y,Y,385400,Y,Y,Referred to EDD
+BDD0515,C01645,14668096,United Kingdom,Private Limited,Retail,Standard,Y,22,2,1,Y,Y,N,Discrepancy,Y,Y,28500,Y,N,Remediation Required
+BDD0516,C01647,10117478,Russia,LLP,Retail,Standard,Y,19,1,1,Y,N,N,N/A (non-UK),Y,Y,9700,Y,N,Satisfactory
+BDD0517,C01653,13038996,United Kingdom,Private Limited,Money Services,High,Y,8,1,3,Y,Y,N,Match,Y,Y,150900,Y,N,Satisfactory
+BDD0518,C01654,12807544,Ireland,Trust,Technology,Standard,N,1,3,2,Y,Y,Y,N/A (non-UK),Y,Y,23300,Y,N,Satisfactory
+BDD0519,C01658,15788210,Germany,Private Limited,Construction,Standard,N,10,2,1,Y,Y,N,N/A (non-UK),Y,Y,41600,Y,N,Satisfactory
+BDD0520,C01659,10273644,United Kingdom,Private Limited,Retail,Standard,Y,8,2,3,Y,Y,N,Match,Y,Y,66700,Y,N,Satisfactory
+BDD0521,C01660,15629233,United Kingdom,Private Limited,Professional Services,Standard,N,22,1,3,Y,Y,N,Match,Y,Y,89700,Y,N,Satisfactory
+BDD0522,C01667,15902743,Nigeria,Trust,Money Services,High,Y,28,1,3,Y,Y,N,N/A (non-UK),Y,N,6700,Y,N,Satisfactory
+BDD0523,C01670,11300412,United Kingdom,Trust,Retail,Standard,Y,27,2,1,Y,Y,N,Match,Y,Y,81800,N,N,Satisfactory
+BDD0524,C01672,13696257,France,Private Limited,Construction,Standard,N,33,2,4,Y,Y,N,N/A (non-UK),Y,Y,5700,Y,N,Satisfactory
+BDD0525,C01674,14878397,Cyprus,Private Limited,Precious Metals,High,Y,19,2,1,Y,N,Y,N/A (non-UK),Y,Y,70800,Y,N,Satisfactory
+BDD0526,C01677,15913993,United Kingdom,LLP,Charity,Standard,N,9,2,3,Y,Y,N,Match,Y,Y,142100,Y,N,Satisfactory
+BDD0527,C01682,12052824,United States,Private Limited,Hospitality,Standard,Y,14,2,4,Y,Y,N,N/A (non-UK),Y,Y,368700,N,N,Satisfactory
+BDD0528,C01686,11647258,United Kingdom,Private Limited,Import/Export,High,N,13,2,4,Y,Y,N,Match,Y,Y,115000,Y,N,Satisfactory
+BDD0529,C01689,12300649,United Kingdom,Private Limited,Money Services,High,Y,33,2,4,Y,N,N,Match,Y,N,67300,Y,N,Satisfactory
+BDD0530,C01691,11759889,United Kingdom,LLP,Hospitality,Standard,Y,26,3,3,Y,Y,Y,Match,Y,Y,139200,Y,N,Satisfactory
+BDD0531,C01695,13573375,United Kingdom,Trust,Real Estate,High,N,33,1,2,Y,Y,N,Match,Y,Y,4100,Y,N,Satisfactory
+BDD0532,C01713,15594083,United Kingdom,Private Limited,Precious Metals,High,Y,11,1,1,Y,Y,N,Match,Y,Y,162200,Y,N,Satisfactory
+BDD0533,C01715,13025574,United Kingdom,Private Limited,Professional Services,Standard,N,10,4,4,Y,Y,Y,Match,Y,Y,394100,Y,N,Satisfactory
+BDD0534,C01717,14869070,United Kingdom,Private Limited,Construction,Standard,N,33,4,2,N,N,Y,Match,Y,Y,70000,Y,N,Rejected
+BDD0535,C01721,15612474,United Kingdom,Private Limited,Construction,Standard,N,28,1,3,Y,Y,N,Match,Y,Y,83700,Y,N,Satisfactory
+BDD0536,C01725,15836823,United Kingdom,Private Limited,Construction,Standard,N,1,3,1,Y,Y,Y,Match,Y,Y,94900,N,N,Satisfactory
+BDD0537,C01729,15433824,United Kingdom,Private Limited,Retail,Standard,Y,24,1,2,Y,Y,N,Match,Y,Y,152200,Y,N,Satisfactory
+BDD0538,C01732,12173144,United Kingdom,Private Limited,Charity,Standard,N,0,3,3,Y,Y,Y,Match,Y,Y,59800,Y,N,Satisfactory
+BDD0539,C01739,12686898,United Kingdom,Private Limited,Real Estate,High,N,2,1,4,Y,Y,N,Match,Y,N,81000,Y,N,Satisfactory
+BDD0540,C01740,11588383,Germany,Partnership,Hospitality,Standard,Y,3,1,3,Y,Y,N,N/A (non-UK),Y,Y,39300,Y,N,Satisfactory
+BDD0541,C01744,14960576,United Kingdom,Private Limited,Import/Export,High,N,2,2,1,Y,Y,N,Match,Y,Y,266500,Y,N,Satisfactory
+BDD0542,C01750,13609809,India,Trust,Import/Export,High,N,18,2,2,Y,Y,N,N/A (non-UK),Y,Y,40100,Y,N,Satisfactory
+BDD0543,C01752,15483333,France,Partnership,Professional Services,Standard,N,0,1,3,Y,Y,N,N/A (non-UK),Y,Y,35200,N,N,Satisfactory
+BDD0544,C01754,15343931,United Kingdom,Private Limited,Retail,Standard,Y,22,2,2,Y,Y,N,Match,Y,N,134300,Y,N,Satisfactory
+BDD0545,C01755,14342900,Russia,Partnership,Professional Services,Standard,N,5,1,1,Y,Y,N,N/A (non-UK),Y,Y,9700,Y,N,Satisfactory
+BDD0546,C01756,15868858,United States,Private Limited,Hospitality,Standard,Y,9,1,3,Y,Y,N,N/A (non-UK),Y,Y,12300,N,N,Satisfactory
+BDD0547,C01762,14187522,United States,LLP,Construction,Standard,N,4,3,3,Y,Y,Y,N/A (non-UK),Y,Y,15900,Y,Y,Rejected
+BDD0548,C01763,10955166,Pakistan,Trust,Retail,Standard,Y,10,1,2,Y,Y,N,N/A (non-UK),Y,Y,36200,Y,N,Satisfactory
+BDD0549,C01766,13385209,United Kingdom,LLP,Construction,Standard,N,4,3,4,Y,Y,Y,Match,Y,Y,153500,Y,N,Satisfactory
+BDD0550,C01767,14337625,United Kingdom,Private Limited,Construction,Standard,N,21,2,1,Y,Y,N,Match,Y,Y,311800,Y,N,Satisfactory
+BDD0551,C01770,14153561,Pakistan,LLP,Professional Services,Standard,N,16,2,2,Y,Y,N,N/A (non-UK),Y,Y,73400,Y,N,Satisfactory
+BDD0552,C01773,12422901,United Kingdom,Private Limited,Retail,Standard,Y,36,3,4,Y,N,Y,Match,Y,Y,116500,Y,N,Satisfactory
+BDD0553,C01774,10889540,Nigeria,Private Limited,Technology,Standard,N,28,3,1,Y,Y,Y,N/A (non-UK),Y,Y,21600,Y,Y,Rejected
+BDD0554,C01775,12775465,United Kingdom,Private Limited,Charity,Standard,N,16,1,4,Y,Y,N,Match,Y,Y,50800,Y,N,Satisfactory
+BDD0555,C01776,11236516,United Kingdom,Private Limited,Money Services,High,Y,18,1,1,Y,Y,N,Match,Y,Y,15600,Y,N,Satisfactory
+BDD0556,C01784,14735165,United Kingdom,LLP,Real Estate,High,N,0,4,1,Y,Y,Y,Match,Y,Y,67200,Y,Y,Referred to EDD
+BDD0557,C01789,12206325,United Kingdom,LLP,Professional Services,Standard,N,22,2,1,Y,Y,N,Match,Y,Y,44800,Y,N,Satisfactory
+BDD0558,C01792,15927287,Ireland,Trust,Import/Export,High,N,22,4,2,Y,Y,Y,N/A (non-UK),Y,Y,69200,Y,N,Satisfactory
+BDD0559,C01803,15660403,United Kingdom,LLP,Crypto Assets,High,N,13,4,1,Y,Y,Y,Match,Y,Y,43700,Y,N,Satisfactory
+BDD0560,C01809,14860735,United Kingdom,Partnership,Construction,Standard,N,12,3,2,Y,Y,Y,Match,Y,N,81200,Y,N,Satisfactory
+BDD0561,C01810,11792154,United Kingdom,Private Limited,Money Services,High,Y,26,3,1,Y,Y,Y,Match,Y,Y,64600,Y,N,Satisfactory
+BDD0562,C01813,12052590,India,Private Limited,Technology,Standard,N,25,1,4,Y,Y,N,N/A (non-UK),Y,Y,59800,Y,N,Satisfactory
+BDD0563,C01818,10772117,United Kingdom,Private Limited,Retail,Standard,Y,13,3,3,Y,Y,Y,Match,Y,Y,37300,Y,Y,Referred to EDD
+BDD0564,C01820,10542701,Ireland,Private Limited,Retail,Standard,Y,30,2,3,Y,N,N,N/A (non-UK),Y,Y,24200,Y,N,Satisfactory
+BDD0565,C01828,12777479,United Kingdom,PLC,Hospitality,Standard,Y,12,2,1,Y,Y,N,Match,Y,Y,19800,N,N,Satisfactory
+BDD0566,C01833,11967723,United Kingdom,Private Limited,Import/Export,High,N,17,4,3,Y,Y,Y,Match,Y,Y,65900,Y,N,Satisfactory
+BDD0567,C01834,12035698,United Kingdom,Trust,Professional Services,Standard,N,37,1,4,Y,N,N,Match,Y,Y,5500,Y,N,Satisfactory
+BDD0568,C01835,14334941,United Kingdom,Private Limited,Construction,Standard,N,27,1,1,Y,Y,N,Match,Y,Y,28800,Y,N,Satisfactory
+BDD0569,C01845,15942932,Nigeria,Trust,Charity,Standard,N,17,1,4,Y,Y,N,N/A (non-UK),Y,Y,73900,Y,N,Satisfactory
+BDD0570,C01846,10097271,United Kingdom,PLC,Import/Export,High,N,23,1,1,Y,Y,N,Discrepancy,Y,Y,42000,Y,N,Remediation Required
+BDD0571,C01848,12322665,United Kingdom,Partnership,Professional Services,Standard,N,17,1,4,Y,Y,N,Match,Y,N,25500,Y,N,Satisfactory
+BDD0572,C01850,11424949,Cyprus,Private Limited,Money Services,High,Y,7,2,4,Y,N,Y,N/A (non-UK),Y,Y,18300,Y,N,Satisfactory
+BDD0573,C01851,13378685,UAE,Private Limited,Hospitality,Standard,Y,2,1,2,Y,Y,Y,N/A (non-UK),Y,Y,24500,Y,Y,Referred to EDD
+BDD0574,C01853,11121937,France,PLC,Construction,Standard,N,33,1,2,Y,Y,N,N/A (non-UK),Y,Y,39500,Y,N,Satisfactory
+BDD0575,C01854,15792940,Pakistan,Foundation,Real Estate,High,N,36,4,1,N,N,Y,N/A (non-UK),Y,Y,8600,N,N,Rejected
+BDD0576,C01855,13726060,Germany,Private Limited,Professional Services,Standard,N,35,3,1,N,N,Y,N/A (non-UK),Y,Y,138700,Y,Y,Referred to EDD
+BDD0577,C01856,15346236,Germany,Private Limited,Professional Services,Standard,N,14,1,2,Y,Y,N,N/A (non-UK),Y,Y,75500,Y,N,Satisfactory
+BDD0578,C01859,13801382,United Kingdom,Private Limited,Real Estate,High,N,16,4,2,N,N,Y,Discrepancy,Y,Y,22500,Y,N,Referred to EDD
+BDD0579,C01865,15416103,United Kingdom,Private Limited,Crypto Assets,High,N,27,2,1,Y,Y,N,Match,Y,N,202900,Y,N,Satisfactory
+BDD0580,C01867,12066895,UAE,Private Limited,Retail,Standard,Y,14,2,3,Y,Y,Y,N/A (non-UK),Y,Y,23600,Y,Y,Rejected
+BDD0581,C01868,14753022,Ireland,Private Limited,Money Services,High,Y,26,1,4,Y,Y,N,N/A (non-UK),Y,Y,60300,Y,N,Satisfactory
+BDD0582,C01872,12221354,Nigeria,Private Limited,Technology,Standard,N,19,3,2,Y,N,Y,N/A (non-UK),Y,Y,920800,Y,N,Satisfactory
+BDD0583,C01873,12174085,United Kingdom,Private Limited,Professional Services,Standard,N,35,2,4,Y,Y,N,Match,Y,Y,43800,Y,N,Satisfactory
+BDD0584,C01878,12433595,Pakistan,Private Limited,Import/Export,High,N,34,3,2,Y,Y,Y,N/A (non-UK),Y,Y,34900,Y,N,Satisfactory
+BDD0585,C01879,14643418,Ireland,Private Limited,Technology,Standard,N,35,2,2,Y,Y,N,N/A (non-UK),Y,Y,119400,Y,N,Satisfactory
+BDD0586,C01881,14760366,Nigeria,Private Limited,Real Estate,High,N,32,2,2,Y,N,N,N/A (non-UK),Y,Y,16900,Y,N,Satisfactory
+BDD0587,C01883,13591277,Nigeria,Private Limited,Professional Services,Standard,N,6,3,4,Y,Y,Y,N/A (non-UK),Y,Y,284800,Y,N,Satisfactory
+BDD0588,C01886,11543722,India,Private Limited,Construction,Standard,N,31,1,2,Y,Y,N,N/A (non-UK),Y,Y,17500,Y,N,Satisfactory
+BDD0589,C01889,12177906,United Kingdom,Private Limited,Retail,Standard,Y,4,1,4,Y,Y,N,Match,Y,Y,98800,Y,N,Satisfactory
+BDD0590,C01896,13231044,Cyprus,Private Limited,Technology,Standard,N,28,3,4,Y,Y,Y,N/A (non-UK),Y,Y,149200,Y,N,Satisfactory
+BDD0591,C01899,13186582,Russia,Private Limited,Retail,Standard,Y,35,1,1,Y,Y,N,N/A (non-UK),Y,N,38800,Y,N,Satisfactory
+BDD0592,C01901,12795809,United Kingdom,Private Limited,Retail,Standard,Y,33,3,2,Y,Y,Y,Match,Y,N,543200,Y,Y,Referred to EDD
+BDD0593,C01903,15187250,United States,Private Limited,Retail,Standard,Y,10,1,1,Y,Y,N,N/A (non-UK),Y,Y,80200,N,N,Satisfactory
+BDD0594,C01906,10108969,United States,Private Limited,Hospitality,Standard,Y,28,1,4,Y,Y,N,N/A (non-UK),Y,Y,18200,Y,N,Satisfactory
+BDD0595,C01927,10393626,United Kingdom,Private Limited,Money Services,High,Y,33,2,2,Y,Y,N,Match,Y,Y,212600,Y,N,Satisfactory
+BDD0596,C01936,11288404,United Kingdom,LLP,Retail,Standard,Y,1,4,1,Y,Y,Y,Match,Y,N,81600,N,Y,Referred to EDD
+BDD0597,C01937,15392238,Cyprus,Private Limited,Retail,Standard,Y,16,4,1,Y,Y,Y,N/A (non-UK),Y,Y,58500,Y,N,Satisfactory
+BDD0598,C01940,11011650,United Kingdom,Private Limited,Precious Metals,High,Y,6,2,4,Y,Y,N,Match,Y,Y,9200,Y,N,Satisfactory
+BDD0599,C01942,14260688,United Kingdom,Partnership,Retail,Standard,Y,13,2,1,Y,Y,N,Match,Y,Y,47700,Y,N,Satisfactory
+BDD0600,C01944,15751146,United Kingdom,Private Limited,Real Estate,High,N,35,3,3,Y,Y,Y,Match,Y,Y,132800,Y,Y,Referred to EDD
+BDD0601,C01945,11961314,United Kingdom,Private Limited,Construction,Standard,N,7,1,4,Y,Y,N,Match,Y,N,64300,Y,N,Satisfactory
+BDD0602,C01951,15125744,United Kingdom,LLP,Construction,Standard,N,27,2,2,Y,Y,N,Match,Y,Y,24200,Y,N,Satisfactory
+BDD0603,C01954,12414733,Cyprus,Private Limited,Technology,Standard,N,38,4,1,Y,Y,Y,N/A (non-UK),Y,Y,19500,Y,N,Satisfactory
+BDD0604,C01957,12951593,United Kingdom,Private Limited,Charity,Standard,N,33,3,3,Y,N,Y,Match,Y,Y,43200,Y,N,Satisfactory
+BDD0605,C01961,12592591,United Kingdom,LLP,Construction,Standard,N,2,2,3,Y,Y,N,Match,Y,Y,8400,Y,N,Satisfactory
+BDD0606,C01966,11780123,United Kingdom,Trust,Hospitality,Standard,Y,37,1,2,Y,Y,N,Match,Y,Y,228400,Y,N,Satisfactory
+BDD0607,C01968,12598584,Hong Kong,Foundation,Technology,Standard,N,20,2,3,N,N,Y,N/A (non-UK),Y,Y,25000,Y,N,Rejected
+BDD0608,C01971,10928802,UAE,Private Limited,Import/Export,High,N,39,2,4,Y,Y,Y,N/A (non-UK),Y,Y,27600,Y,N,Satisfactory
+BDD0609,C01974,10123650,India,Trust,Import/Export,High,N,28,2,3,Y,Y,N,N/A (non-UK),Y,Y,103800,N,N,Satisfactory
+BDD0610,C01977,11860056,United Kingdom,Private Limited,Retail,Standard,Y,30,1,4,Y,Y,N,Match,Y,Y,352700,Y,N,Satisfactory
+BDD0611,C01989,11086016,Russia,Private Limited,Technology,Standard,N,16,2,2,Y,Y,N,N/A (non-UK),Y,Y,132800,Y,N,Satisfactory
+BDD0612,C01992,12453895,India,Private Limited,Real Estate,High,N,6,1,1,Y,Y,N,N/A (non-UK),Y,N,9900,Y,N,Satisfactory
+BDD0613,C01995,12614901,Germany,Private Limited,Money Services,High,Y,11,1,4,Y,Y,N,N/A (non-UK),Y,Y,59200,Y,N,Satisfactory
+BDD0614,C02001,13489988,United Kingdom,Private Limited,Hospitality,Standard,Y,20,1,2,Y,Y,N,Match,Y,Y,91800,Y,N,Satisfactory
+BDD0615,C02003,10544677,India,Partnership,Charity,Standard,N,6,1,1,Y,Y,N,N/A (non-UK),Y,Y,82000,Y,N,Satisfactory
+BDD0616,C02004,14302678,United Kingdom,Private Limited,Import/Export,High,N,0,2,1,Y,Y,N,Match,Y,Y,33200,Y,N,Satisfactory
+BDD0617,C02006,10842308,United Kingdom,LLP,Technology,Standard,N,7,1,4,Y,Y,N,Match,Y,Y,38800,N,N,Satisfactory
+BDD0618,C02007,11386671,United Kingdom,Foundation,Real Estate,High,N,31,3,1,N,N,Y,Discrepancy,Y,Y,29800,Y,N,Rejected
+BDD0619,C02008,15571439,Pakistan,Private Limited,Hospitality,Standard,Y,37,1,4,Y,Y,N,N/A (non-UK),Y,N,191400,Y,N,Satisfactory
+BDD0620,C02016,15101085,Ireland,Private Limited,Technology,Standard,N,32,1,2,Y,Y,N,N/A (non-UK),Y,Y,121400,Y,N,Satisfactory
+BDD0621,C02032,13396386,United Kingdom,Private Limited,Import/Export,High,N,16,4,4,Y,Y,Y,Match,Y,Y,400200,Y,N,Satisfactory
+BDD0622,C02033,11433264,United Kingdom,Private Limited,Professional Services,Standard,N,20,1,3,Y,N,N,Match,Y,N,81200,Y,N,Satisfactory
+BDD0623,C02034,15425206,United Kingdom,Private Limited,Retail,Standard,Y,1,1,4,Y,Y,N,Match,Y,Y,59100,Y,N,Satisfactory
+BDD0624,C02038,15935896,Pakistan,Private Limited,Technology,Standard,N,20,4,4,N,N,Y,N/A (non-UK),Y,Y,82300,Y,N,Rejected
+BDD0625,C02039,13897860,United Kingdom,LLP,Precious Metals,High,Y,15,1,2,Y,Y,N,Match,Y,Y,25200,Y,N,Satisfactory
+BDD0626,C02040,11546525,United Kingdom,PLC,Hospitality,Standard,Y,15,1,4,Y,Y,N,Match,Y,Y,47000,Y,N,Satisfactory
+BDD0627,C02041,12136058,India,Private Limited,Professional Services,Standard,N,24,2,3,Y,Y,N,N/A (non-UK),Y,Y,26900,Y,N,Satisfactory
+BDD0628,C02043,10078124,Ireland,Private Limited,Hospitality,Standard,Y,16,1,2,Y,Y,N,N/A (non-UK),Y,Y,121800,Y,N,Satisfactory
+BDD0629,C02044,14867892,United Kingdom,LLP,Import/Export,High,N,24,2,2,Y,Y,N,Match,Y,Y,29500,Y,N,Satisfactory
+BDD0630,C02046,15773612,United Kingdom,LLP,Technology,Standard,N,33,4,1,N,N,Y,Match,Y,Y,65700,Y,N,Referred to EDD
+BDD0631,C02048,13467915,United Kingdom,Private Limited,Professional Services,Standard,N,3,2,1,Y,Y,N,Match,Y,N,32800,Y,N,Satisfactory
+BDD0632,C02049,13259161,Panama,Private Limited,Charity,Standard,N,36,1,3,N,N,Y,N/A (non-UK),Y,Y,16000,Y,N,Rejected
+BDD0633,C02053,13157944,India,Partnership,Construction,Standard,N,10,1,3,Y,Y,N,N/A (non-UK),Y,Y,604200,Y,N,Satisfactory
+BDD0634,C02054,11677529,United Kingdom,Private Limited,Retail,Standard,Y,28,1,1,Y,Y,N,Match,Y,Y,90200,Y,N,Satisfactory
+BDD0635,C02056,10551231,United Kingdom,Private Limited,Retail,Standard,Y,29,2,2,Y,Y,N,Match,Y,Y,10800,Y,N,Satisfactory
+BDD0636,C02065,11811963,India,Private Limited,Professional Services,Standard,N,39,1,3,Y,Y,N,N/A (non-UK),Y,Y,17300,Y,N,Satisfactory
+BDD0637,C02067,11232445,United Kingdom,Private Limited,Construction,Standard,N,39,1,1,Y,Y,N,Match,Y,N,13100,Y,N,Satisfactory
+BDD0638,C02078,14645131,United Kingdom,LLP,Professional Services,Standard,N,8,3,2,Y,Y,Y,Discrepancy,Y,N,22300,Y,N,Remediation Required
+BDD0639,C02080,10243236,United Kingdom,Private Limited,Hospitality,Standard,Y,20,2,4,Y,Y,N,Discrepancy,Y,Y,111200,Y,N,Remediation Required
+BDD0640,C02081,15178636,United Kingdom,Private Limited,Real Estate,High,N,36,3,2,Y,Y,Y,Match,Y,N,30300,Y,N,Satisfactory
+BDD0641,C02082,10512776,United Kingdom,Foundation,Import/Export,High,N,3,3,4,N,N,Y,Match,Y,Y,28700,Y,N,Referred to EDD
+BDD0642,C02083,13137831,United Kingdom,Private Limited,Import/Export,High,N,25,1,2,Y,Y,N,Match,Y,Y,71100,Y,N,Satisfactory
+BDD0643,C02087,15346419,Panama,Private Limited,Retail,Standard,Y,34,1,1,Y,Y,Y,N/A (non-UK),Y,N,44700,Y,N,Satisfactory
+BDD0644,C02090,11646464,United Kingdom,LLP,Real Estate,High,N,18,2,2,Y,N,N,Match,Y,Y,96300,Y,N,Satisfactory
+BDD0645,C02093,14747065,United Kingdom,Private Limited,Construction,Standard,N,17,2,2,Y,Y,N,Discrepancy,Y,Y,26200,Y,N,Remediation Required
+BDD0646,C02096,10575647,United Kingdom,Trust,Hospitality,Standard,Y,16,1,1,Y,Y,N,Match,Y,Y,28800,Y,N,Satisfactory
+BDD0647,C02102,11330418,United Kingdom,LLP,Construction,Standard,N,29,2,3,Y,Y,N,Match,Y,Y,36400,Y,N,Satisfactory
+BDD0648,C02103,15453741,United Kingdom,Private Limited,Money Services,High,Y,6,1,3,Y,Y,N,Match,Y,Y,128700,Y,N,Satisfactory
+BDD0649,C02107,11452581,United Kingdom,Private Limited,Hospitality,Standard,Y,9,2,3,Y,Y,N,Match,Y,Y,18800,Y,N,Satisfactory
+BDD0650,C02111,13961206,Ireland,Private Limited,Money Services,High,Y,3,3,2,Y,Y,Y,N/A (non-UK),Y,N,58100,Y,N,Satisfactory
+BDD0651,C02113,12941348,Germany,Private Limited,Technology,Standard,N,34,1,1,Y,Y,N,N/A (non-UK),Y,Y,25100,Y,N,Satisfactory
+BDD0652,C02115,11059294,Pakistan,Private Limited,Precious Metals,High,Y,31,4,3,Y,Y,Y,N/A (non-UK),Y,N,303900,Y,N,Satisfactory
+BDD0653,C02118,11982182,Panama,Private Limited,Hospitality,Standard,Y,10,1,2,Y,Y,Y,N/A (non-UK),Y,Y,25100,Y,N,Satisfactory
+BDD0654,C02119,13599696,United Kingdom,LLP,Import/Export,High,N,24,3,3,Y,Y,Y,Match,Y,N,54200,Y,N,Satisfactory
+BDD0655,C02125,13328889,France,Private Limited,Construction,Standard,N,27,1,2,Y,Y,N,N/A (non-UK),Y,Y,246500,Y,N,Satisfactory
+BDD0656,C02127,14968022,United Kingdom,Private Limited,Hospitality,Standard,Y,8,3,1,Y,Y,Y,Match,Y,Y,18500,Y,N,Satisfactory
+BDD0657,C02134,11300961,United Kingdom,Private Limited,Real Estate,High,N,16,3,3,N,N,Y,Match,Y,N,45800,Y,N,Referred to EDD
+BDD0658,C02135,12843586,UAE,Private Limited,Money Services,High,Y,14,2,2,N,N,Y,N/A (non-UK),Y,Y,12800,Y,N,Referred to EDD
+BDD0659,C02136,12444388,United Kingdom,Trust,Professional Services,Standard,N,14,4,2,Y,Y,Y,Match,Y,Y,44100,Y,Y,Referred to EDD
+BDD0660,C02152,11055731,United Kingdom,Private Limited,Real Estate,High,N,26,1,4,Y,Y,N,Discrepancy,Y,Y,40300,Y,N,Remediation Required
+BDD0661,C02155,15496358,United Kingdom,Foundation,Money Services,High,Y,7,4,2,Y,Y,Y,Match,Y,Y,55900,N,N,Satisfactory
+BDD0662,C02157,11758370,United Kingdom,LLP,Retail,Standard,Y,9,2,2,Y,Y,N,Match,Y,Y,125400,Y,N,Satisfactory
+BDD0663,C02158,12756100,Nigeria,Private Limited,Retail,Standard,Y,33,1,2,Y,Y,N,N/A (non-UK),Y,Y,50300,Y,N,Satisfactory
+BDD0664,C02162,13894281,United Kingdom,Private Limited,Construction,Standard,N,7,2,1,Y,N,N,Match,Y,Y,17800,Y,N,Satisfactory
+BDD0665,C02167,15251827,United Kingdom,Private Limited,Real Estate,High,N,17,2,2,Y,Y,N,Match,Y,Y,50000,Y,N,Satisfactory
+BDD0666,C02169,10996359,India,Private Limited,Construction,Standard,N,29,3,3,N,N,Y,N/A (non-UK),Y,Y,27200,Y,N,Rejected
+BDD0667,C02170,13188747,United Kingdom,LLP,Retail,Standard,Y,16,3,2,N,N,Y,Match,Y,Y,77200,N,N,Referred to EDD
+BDD0668,C02173,10363888,United Kingdom,Trust,Precious Metals,High,Y,18,2,2,Y,Y,N,Discrepancy,Y,N,28700,Y,N,Remediation Required
+BDD0669,C02174,12561175,United Kingdom,Private Limited,Import/Export,High,N,4,3,3,Y,N,Y,Match,Y,Y,37200,Y,Y,Rejected
+BDD0670,C02175,15844150,United Kingdom,Partnership,Professional Services,Standard,N,17,1,2,Y,Y,N,Match,Y,Y,29800,Y,N,Satisfactory
+BDD0671,C02179,13062665,United Kingdom,Trust,Retail,Standard,Y,5,1,3,Y,Y,N,Match,Y,Y,91700,Y,N,Satisfactory
+BDD0672,C02184,15832516,Nigeria,Private Limited,Construction,Standard,N,6,2,1,Y,Y,N,N/A (non-UK),Y,N,249700,Y,N,Satisfactory
+BDD0673,C02187,14446218,Germany,Private Limited,Hospitality,Standard,Y,14,1,2,Y,Y,N,N/A (non-UK),Y,Y,4800,Y,N,Satisfactory
+BDD0674,C02188,11729446,United Kingdom,Private Limited,Charity,Standard,N,25,3,1,Y,Y,Y,Match,Y,N,14600,Y,N,Satisfactory
+BDD0675,C02191,15990880,United Kingdom,Private Limited,Technology,Standard,N,1,4,3,Y,N,Y,Match,Y,Y,32700,Y,N,Satisfactory
+BDD0676,C02192,14253181,France,Private Limited,Construction,Standard,N,4,2,3,Y,Y,N,N/A (non-UK),Y,Y,4100,Y,N,Satisfactory
+BDD0677,C02197,10177389,United Kingdom,Private Limited,Retail,Standard,Y,23,3,1,Y,Y,Y,Match,Y,Y,17800,Y,N,Satisfactory
+BDD0678,C02200,14735046,United Kingdom,Partnership,Precious Metals,High,Y,24,1,2,Y,Y,N,Match,Y,Y,119100,Y,N,Satisfactory
+BDD0679,C02201,13101673,United Kingdom,Trust,Precious Metals,High,Y,7,4,3,N,N,Y,Match,Y,Y,33200,Y,N,Rejected
+BDD0680,C02202,15851412,United Kingdom,Private Limited,Crypto Assets,High,N,2,1,2,Y,Y,N,Match,Y,Y,215800,Y,N,Satisfactory
+BDD0681,C02210,14032303,United Kingdom,Private Limited,Crypto Assets,High,N,29,4,4,Y,Y,Y,Match,Y,Y,72800,Y,N,Satisfactory
+BDD0682,C02211,10757125,United Kingdom,PLC,Retail,Standard,Y,38,2,4,Y,Y,N,Match,Y,Y,113400,Y,N,Satisfactory
+BDD0683,C02218,12428096,Germany,LLP,Construction,Standard,N,25,4,1,N,N,Y,N/A (non-UK),Y,Y,58700,Y,Y,Referred to EDD
+BDD0684,C02220,14605103,Germany,Private Limited,Professional Services,Standard,N,9,2,2,Y,Y,N,N/A (non-UK),Y,Y,26600,Y,N,Satisfactory
+BDD0685,C02226,13429657,United Kingdom,Partnership,Retail,Standard,Y,18,3,2,Y,Y,Y,Match,Y,N,46200,Y,N,Satisfactory
+BDD0686,C02233,10208481,Ireland,PLC,Construction,Standard,N,34,1,3,Y,Y,N,N/A (non-UK),Y,Y,162400,Y,N,Satisfactory
+BDD0687,C02237,10321348,UAE,Private Limited,Money Services,High,Y,8,2,3,Y,Y,Y,N/A (non-UK),Y,Y,24100,Y,N,Satisfactory
+BDD0688,C02243,11689444,United Kingdom,Private Limited,Construction,Standard,N,2,3,4,N,N,Y,Match,Y,Y,130500,Y,N,Rejected
+BDD0689,C02245,11682422,United Kingdom,Private Limited,Construction,Standard,N,30,3,2,Y,Y,Y,Discrepancy,Y,Y,67600,Y,Y,Referred to EDD
+BDD0690,C02247,13396819,United Kingdom,Private Limited,Hospitality,Standard,Y,26,4,2,Y,Y,Y,Discrepancy,Y,Y,113800,Y,Y,Referred to EDD
+BDD0691,C02248,12263202,United Kingdom,Private Limited,Import/Export,High,N,39,1,2,Y,Y,N,Match,Y,Y,12600,Y,N,Satisfactory
+BDD0692,C02252,11699547,United Kingdom,Private Limited,Money Services,High,Y,19,1,4,Y,Y,N,Match,Y,Y,45400,Y,N,Satisfactory
+BDD0693,C02256,12437526,UAE,Partnership,Charity,Standard,N,28,2,2,N,N,Y,N/A (non-UK),Y,Y,63300,Y,N,Rejected
+BDD0694,C02259,11119550,Hong Kong,Private Limited,Charity,Standard,N,18,2,3,Y,Y,Y,N/A (non-UK),Y,N,18400,Y,N,Satisfactory
+BDD0695,C02261,14089548,United Kingdom,Trust,Import/Export,High,N,29,2,1,Y,Y,N,Match,Y,Y,12700,Y,N,Satisfactory
+BDD0696,C02264,10272522,India,Private Limited,Retail,Standard,Y,27,1,2,Y,Y,N,N/A (non-UK),Y,Y,62400,Y,N,Satisfactory
+BDD0697,C02277,15414217,United Kingdom,LLP,Professional Services,Standard,N,7,1,2,Y,Y,N,Match,Y,Y,265500,Y,N,Satisfactory
+BDD0698,C02281,14590585,United Kingdom,Private Limited,Technology,Standard,N,33,1,4,Y,Y,N,Match,Y,Y,92400,Y,N,Satisfactory
+BDD0699,C02286,10366426,United Kingdom,Private Limited,Technology,Standard,N,16,3,1,Y,Y,Y,Match,Y,Y,36800,Y,N,Satisfactory
+BDD0700,C02287,13915914,United Kingdom,Private Limited,Technology,Standard,N,18,2,2,Y,Y,N,Match,Y,Y,29100,Y,N,Satisfactory
+BDD0701,C02289,12695498,United Kingdom,Private Limited,Real Estate,High,N,3,1,3,Y,Y,N,Match,Y,Y,48600,N,N,Satisfactory
+BDD0702,C02292,13508916,Nigeria,LLP,Import/Export,High,N,10,1,2,Y,N,N,N/A (non-UK),Y,Y,13800,Y,N,Satisfactory
+BDD0703,C02296,12386776,United Kingdom,Partnership,Retail,Standard,Y,3,1,2,Y,N,N,Match,Y,N,86200,Y,N,Satisfactory
+BDD0704,C02302,11790662,Pakistan,Private Limited,Professional Services,Standard,N,37,2,3,Y,Y,N,N/A (non-UK),Y,N,94200,Y,N,Satisfactory
+BDD0705,C02303,15788684,Hong Kong,Private Limited,Real Estate,High,N,17,3,1,N,N,Y,N/A (non-UK),Y,Y,28200,Y,N,Referred to EDD
+BDD0706,C02304,11091615,United Kingdom,Partnership,Money Services,High,Y,5,2,3,Y,Y,N,Match,Y,Y,44600,Y,N,Satisfactory
+BDD0707,C02305,14235892,United Kingdom,Private Limited,Real Estate,High,N,10,4,4,N,N,Y,Match,Y,Y,72100,Y,N,Rejected
+BDD0708,C02310,13034558,United Kingdom,Private Limited,Construction,Standard,N,26,1,3,Y,Y,N,Match,Y,Y,131800,Y,N,Satisfactory
+BDD0709,C02312,15729306,United Kingdom,Private Limited,Construction,Standard,N,25,3,4,N,N,Y,Match,Y,Y,18500,Y,N,Referred to EDD
+BDD0710,C02320,12855414,United Kingdom,Private Limited,Real Estate,High,N,24,1,3,Y,Y,N,Match,Y,Y,49400,Y,N,Satisfactory
+BDD0711,C02323,13019561,France,Private Limited,Retail,Standard,Y,37,1,3,Y,N,N,N/A (non-UK),Y,Y,36200,Y,N,Satisfactory
+BDD0712,C02325,15302624,United Kingdom,LLP,Money Services,High,Y,38,4,3,N,N,Y,Match,Y,Y,62800,N,N,Rejected
+BDD0713,C02326,13766364,India,Private Limited,Real Estate,High,N,17,1,4,Y,Y,N,N/A (non-UK),Y,Y,585900,Y,N,Satisfactory
+BDD0714,C02330,12700262,United Kingdom,PLC,Construction,Standard,N,28,4,3,Y,Y,Y,Match,Y,Y,85400,Y,N,Satisfactory
+BDD0715,C02331,15126501,United Kingdom,LLP,Construction,Standard,N,5,2,2,Y,Y,N,Match,Y,Y,45700,Y,N,Satisfactory
+BDD0716,C02332,15063402,United Kingdom,Private Limited,Charity,Standard,N,3,1,3,Y,Y,N,Match,Y,Y,45900,Y,N,Satisfactory
+BDD0717,C02336,10219854,Nigeria,Foundation,Hospitality,Standard,Y,8,1,2,Y,Y,N,N/A (non-UK),Y,Y,93000,Y,N,Satisfactory
+BDD0718,C02340,11387308,United Kingdom,Foundation,Retail,Standard,Y,15,4,1,Y,Y,Y,Match,Y,Y,39800,Y,Y,Rejected
+BDD0719,C02341,15551802,United Kingdom,Trust,Professional Services,Standard,N,18,1,4,Y,Y,N,Match,Y,Y,314300,Y,N,Satisfactory
+BDD0720,C02352,15488193,United Kingdom,Private Limited,Money Services,High,Y,38,4,3,Y,Y,Y,Match,Y,Y,158400,Y,N,Satisfactory
+BDD0721,C02354,12857170,United Kingdom,LLP,Hospitality,Standard,Y,18,4,2,Y,Y,Y,Match,Y,Y,65000,Y,N,Satisfactory
+BDD0722,C02361,12208239,United Kingdom,Private Limited,Technology,Standard,N,18,1,4,Y,Y,N,Match,Y,Y,11300,Y,N,Satisfactory
+BDD0723,C02366,15768304,United Kingdom,Private Limited,Import/Export,High,N,21,2,2,Y,Y,N,Match,Y,Y,45100,Y,N,Satisfactory
+BDD0724,C02367,10244684,India,Private Limited,Precious Metals,High,Y,3,2,2,Y,Y,N,N/A (non-UK),Y,Y,48100,Y,N,Satisfactory
+BDD0725,C02372,10056124,India,LLP,Construction,Standard,N,36,2,1,Y,Y,N,N/A (non-UK),Y,Y,84200,Y,N,Satisfactory
+BDD0726,C02373,13818086,Hong Kong,Private Limited,Import/Export,High,N,10,1,1,Y,Y,Y,N/A (non-UK),Y,Y,136200,Y,N,Satisfactory
+BDD0727,C02380,10563855,Nigeria,Private Limited,Technology,Standard,N,36,2,3,Y,N,N,N/A (non-UK),Y,Y,46500,Y,N,Satisfactory
+BDD0728,C02385,11182604,Cyprus,Trust,Import/Export,High,N,29,2,4,Y,Y,Y,N/A (non-UK),Y,Y,118600,N,Y,Referred to EDD
+BDD0729,C02387,10449101,United Kingdom,LLP,Hospitality,Standard,Y,25,2,3,Y,Y,N,Match,Y,Y,36700,Y,N,Satisfactory
+BDD0730,C02388,15599997,United Kingdom,Trust,Professional Services,Standard,N,35,1,2,Y,Y,N,Match,Y,Y,334800,Y,N,Satisfactory
+BDD0731,C02391,10335993,France,Private Limited,Money Services,High,Y,6,2,4,Y,N,N,N/A (non-UK),Y,Y,138200,Y,N,Satisfactory
+BDD0732,C02394,15490498,United Kingdom,Private Limited,Real Estate,High,N,28,1,3,Y,Y,N,Match,Y,Y,48000,Y,N,Satisfactory
+BDD0733,C02395,10802275,United Kingdom,LLP,Hospitality,Standard,Y,6,1,1,Y,Y,N,Match,Y,Y,59700,Y,N,Satisfactory
+BDD0734,C02399,15376635,Hong Kong,Private Limited,Charity,Standard,N,39,2,2,Y,Y,Y,N/A (non-UK),Y,N,36000,Y,Y,Rejected
+BDD0735,C02403,11999117,Ireland,Private Limited,Retail,Standard,Y,11,2,3,Y,Y,N,N/A (non-UK),Y,Y,29300,N,N,Satisfactory
+BDD0736,C02404,12555476,United Kingdom,Private Limited,Import/Export,High,N,13,1,3,Y,Y,N,Match,Y,N,7700,Y,N,Satisfactory
+BDD0737,C02407,10804635,United Kingdom,Private Limited,Professional Services,Standard,N,28,2,1,Y,Y,N,Match,Y,Y,178200,Y,N,Satisfactory
+BDD0738,C02408,11680751,France,Private Limited,Import/Export,High,N,16,1,2,Y,Y,N,N/A (non-UK),Y,Y,29000,N,N,Satisfactory
+BDD0739,C02416,10870785,Pakistan,Private Limited,Import/Export,High,N,33,1,4,Y,Y,N,N/A (non-UK),Y,Y,33100,N,N,Satisfactory
+BDD0740,C02425,11259961,Ireland,Partnership,Technology,Standard,N,15,4,4,Y,Y,Y,N/A (non-UK),Y,Y,52100,Y,Y,Rejected
+BDD0741,C02427,12699988,United Kingdom,Partnership,Professional Services,Standard,N,26,3,3,Y,Y,Y,Match,Y,Y,30400,N,Y,Referred to EDD
+BDD0742,C02428,12917315,Ireland,PLC,Hospitality,Standard,Y,7,2,3,Y,Y,N,N/A (non-UK),Y,Y,92600,Y,N,Satisfactory
+BDD0743,C02429,13759880,UAE,Private Limited,Professional Services,Standard,N,33,1,3,Y,Y,Y,N/A (non-UK),Y,Y,156800,Y,N,Satisfactory
+BDD0744,C02435,15503151,United Kingdom,Private Limited,Precious Metals,High,Y,1,3,2,Y,Y,Y,Match,Y,Y,23800,Y,N,Satisfactory
+BDD0745,C02437,10269718,United Kingdom,Private Limited,Professional Services,Standard,N,9,1,1,Y,Y,N,Match,Y,Y,276600,Y,N,Satisfactory
+BDD0746,C02447,11638002,United Kingdom,Partnership,Construction,Standard,N,31,1,3,Y,Y,N,Match,Y,N,36600,Y,N,Satisfactory
+BDD0747,C02454,13446888,France,LLP,Import/Export,High,N,27,2,4,Y,Y,N,N/A (non-UK),Y,Y,37000,Y,N,Satisfactory
+BDD0748,C02463,12821849,United Kingdom,Private Limited,Technology,Standard,N,7,2,4,Y,Y,N,Match,Y,Y,43900,Y,N,Satisfactory
+BDD0749,C02470,13491495,India,Private Limited,Money Services,High,Y,10,2,2,Y,Y,N,N/A (non-UK),Y,Y,6300,Y,N,Satisfactory
+BDD0750,C02473,11763064,UAE,LLP,Hospitality,Standard,Y,11,1,4,N,N,Y,N/A (non-UK),Y,Y,18700,N,Y,Referred to EDD
+BDD0751,C02474,11925418,United Kingdom,Private Limited,Construction,Standard,N,26,2,2,Y,Y,N,Match,Y,Y,560900,Y,N,Satisfactory
+BDD0752,C02478,14264815,United Kingdom,Trust,Import/Export,High,N,13,2,1,Y,Y,N,Match,Y,Y,133000,N,N,Satisfactory
+BDD0753,C02480,11131057,United Kingdom,Private Limited,Construction,Standard,N,1,1,2,Y,Y,N,Match,Y,Y,248100,N,N,Satisfactory
+BDD0754,C02482,10507055,United States,PLC,Real Estate,High,N,15,2,2,Y,Y,N,N/A (non-UK),Y,N,51800,Y,N,Satisfactory
+BDD0755,C02491,13795199,United Kingdom,LLP,Import/Export,High,N,24,1,4,Y,Y,N,Match,Y,Y,34400,Y,N,Satisfactory
+BDD0756,C02492,13402677,United Kingdom,PLC,Money Services,High,Y,15,1,1,Y,Y,N,Match,Y,Y,177200,Y,N,Satisfactory
+BDD0757,C02496,14687827,United Kingdom,LLP,Real Estate,High,N,35,4,2,Y,Y,Y,Match,Y,Y,8800,N,N,Satisfactory
+BDD0758,C02499,13932453,Nigeria,Trust,Hospitality,Standard,Y,26,2,4,Y,Y,N,N/A (non-UK),Y,Y,54100,Y,N,Satisfactory
+BDD0759,C02500,11704412,UAE,Partnership,Crypto Assets,High,N,10,2,1,Y,Y,Y,N/A (non-UK),Y,Y,17300,Y,N,Satisfactory
+BDD0760,C02504,12845215,United Kingdom,Partnership,Construction,Standard,N,25,2,1,Y,Y,N,Match,Y,Y,15500,N,N,Satisfactory
+BDD0761,C02511,13059067,United Kingdom,Private Limited,Hospitality,Standard,Y,34,1,3,Y,Y,N,Discrepancy,Y,Y,79500,Y,N,Remediation Required
+BDD0762,C02512,10603809,United Kingdom,Private Limited,Professional Services,Standard,N,38,1,4,Y,N,N,Discrepancy,Y,Y,17200,N,N,Remediation Required
+BDD0763,C02514,10593368,Germany,Private Limited,Retail,Standard,Y,2,1,2,Y,Y,N,N/A (non-UK),Y,Y,76800,Y,N,Satisfactory
+BDD0764,C02518,15814397,Germany,Private Limited,Construction,Standard,N,10,1,3,Y,Y,N,N/A (non-UK),Y,N,20800,N,N,Satisfactory
+BDD0765,C02519,14691194,Germany,Trust,Retail,Standard,Y,26,1,3,Y,Y,N,N/A (non-UK),Y,Y,40500,N,N,Satisfactory
+BDD0766,C02520,14930996,India,LLP,Real Estate,High,N,0,1,4,Y,N,N,N/A (non-UK),Y,Y,157200,Y,N,Satisfactory
+BDD0767,C02521,13976254,United Kingdom,Partnership,Charity,Standard,N,16,2,3,Y,Y,N,Match,Y,N,21100,Y,N,Satisfactory
+BDD0768,C02522,15105161,Nigeria,LLP,Hospitality,Standard,Y,23,4,3,Y,Y,Y,N/A (non-UK),Y,Y,78800,N,Y,Referred to EDD
+BDD0769,C02524,12570212,United Kingdom,LLP,Retail,Standard,Y,1,1,2,Y,Y,N,Match,Y,N,42300,Y,N,Satisfactory
+BDD0770,C02533,10976606,Nigeria,Trust,Professional Services,Standard,N,4,4,2,Y,Y,Y,N/A (non-UK),Y,Y,36100,Y,N,Satisfactory
+BDD0771,C02539,13631500,United Kingdom,Private Limited,Construction,Standard,N,25,2,2,Y,Y,N,Match,Y,Y,163700,Y,N,Satisfactory
+BDD0772,C02541,10315346,United Kingdom,Trust,Construction,Standard,N,18,1,2,Y,Y,N,Match,Y,Y,142200,Y,N,Satisfactory
+BDD0773,C02542,15730432,United Kingdom,Partnership,Construction,Standard,N,6,1,3,Y,Y,N,Match,Y,Y,41600,N,N,Satisfactory
+BDD0774,C02544,13662709,United Kingdom,Foundation,Technology,Standard,N,0,1,1,Y,Y,N,Match,Y,Y,57900,Y,N,Satisfactory
+BDD0775,C02546,13371497,United Kingdom,Private Limited,Professional Services,Standard,N,19,1,4,Y,N,N,Match,Y,Y,48700,Y,N,Satisfactory
+BDD0776,C02547,14236943,United Kingdom,Partnership,Hospitality,Standard,Y,36,1,1,Y,Y,N,Discrepancy,Y,N,16100,Y,N,Remediation Required
+BDD0777,C02548,12563030,United Kingdom,Private Limited,Hospitality,Standard,Y,9,4,2,Y,Y,Y,Match,Y,Y,181800,Y,Y,Referred to EDD
+BDD0778,C02550,13821400,India,Private Limited,Money Services,High,Y,16,2,1,Y,Y,N,N/A (non-UK),Y,Y,124800,N,N,Satisfactory
+BDD0779,C02551,12716293,India,Private Limited,Money Services,High,Y,4,1,2,Y,Y,N,N/A (non-UK),Y,Y,158700,Y,N,Satisfactory
+BDD0780,C02553,11332197,United Kingdom,Private Limited,Retail,Standard,Y,15,1,4,Y,N,N,Match,Y,N,24900,Y,N,Satisfactory
+BDD0781,C02554,11091468,Nigeria,Private Limited,Construction,Standard,N,4,1,4,Y,Y,N,N/A (non-UK),Y,Y,35400,Y,N,Satisfactory
+BDD0782,C02556,10862608,Russia,Trust,Hospitality,Standard,Y,9,4,2,Y,Y,Y,N/A (non-UK),Y,Y,44300,Y,N,Satisfactory
+BDD0783,C02561,15459884,UAE,LLP,Construction,Standard,N,25,4,1,Y,N,Y,N/A (non-UK),Y,Y,167800,Y,N,Satisfactory
+BDD0784,C02566,12180047,United Kingdom,Private Limited,Construction,Standard,N,18,1,1,Y,Y,N,Match,Y,Y,32200,Y,N,Satisfactory
+BDD0785,C02567,13305563,Hong Kong,Trust,Import/Export,High,N,7,2,2,Y,Y,Y,N/A (non-UK),Y,N,396200,N,N,Satisfactory
+BDD0786,C02578,11172206,United Kingdom,Trust,Construction,Standard,N,5,2,1,Y,Y,N,Discrepancy,Y,Y,10900,Y,N,Remediation Required
+BDD0787,C02579,12369926,United Kingdom,Foundation,Technology,Standard,N,12,1,1,Y,Y,N,Match,Y,Y,45300,Y,N,Satisfactory
+BDD0788,C02581,12869660,France,Trust,Real Estate,High,N,33,1,2,Y,Y,N,N/A (non-UK),Y,Y,86100,N,N,Satisfactory
+BDD0789,C02582,15617696,United Kingdom,Partnership,Hospitality,Standard,Y,8,2,1,Y,Y,N,Match,Y,Y,14500,Y,N,Satisfactory
+BDD0790,C02586,15391092,United Kingdom,Private Limited,Construction,Standard,N,13,1,1,Y,Y,N,Match,Y,N,19000,Y,N,Satisfactory
+BDD0791,C02591,13305915,France,Private Limited,Retail,Standard,Y,5,1,2,Y,Y,N,N/A (non-UK),Y,Y,107500,Y,N,Satisfactory
+BDD0792,C02593,11865111,United Kingdom,Private Limited,Import/Export,High,N,24,1,3,Y,Y,N,Match,Y,N,219100,Y,N,Satisfactory
+BDD0793,C02594,10877250,United Kingdom,Private Limited,Professional Services,Standard,N,0,1,4,Y,Y,N,Match,Y,Y,15000,N,N,Satisfactory
+BDD0794,C02595,15706153,United Kingdom,Private Limited,Real Estate,High,N,7,1,3,Y,Y,N,Match,Y,N,56000,Y,N,Satisfactory
+BDD0795,C02597,14160310,United Kingdom,Private Limited,Technology,Standard,N,19,1,3,Y,Y,N,Match,Y,Y,43200,N,N,Satisfactory
+BDD0796,C02600,12047586,United Kingdom,Trust,Import/Export,High,N,26,4,3,Y,Y,Y,Discrepancy,Y,Y,59200,Y,N,Remediation Required
+BDD0797,C02604,15802164,United Kingdom,Private Limited,Retail,Standard,Y,30,1,3,Y,N,N,Match,Y,Y,15000,Y,N,Satisfactory
+BDD0798,C02605,14112996,United Kingdom,Partnership,Charity,Standard,N,29,2,4,Y,Y,N,Match,Y,Y,8200,Y,N,Satisfactory
+BDD0799,C02607,14960961,Pakistan,Private Limited,Money Services,High,Y,2,4,4,N,N,Y,N/A (non-UK),Y,N,19300,Y,Y,Referred to EDD
+BDD0800,C02611,11591627,United Kingdom,Private Limited,Retail,Standard,Y,23,2,1,Y,Y,N,Match,Y,N,11600,Y,N,Satisfactory
+BDD0801,C02615,12282425,United Kingdom,Partnership,Money Services,High,Y,6,4,3,Y,Y,Y,Match,Y,Y,82400,Y,Y,Rejected
+BDD0802,C02618,12436878,United Kingdom,Private Limited,Construction,Standard,N,23,1,3,Y,N,N,Match,Y,Y,29900,Y,N,Satisfactory
+BDD0803,C02622,14852007,United Kingdom,LLP,Hospitality,Standard,Y,35,1,4,Y,Y,N,Match,Y,Y,28400,Y,N,Satisfactory
+BDD0804,C02626,15130819,United Kingdom,Private Limited,Construction,Standard,N,1,1,3,Y,Y,N,Match,Y,Y,284900,Y,N,Satisfactory
+BDD0805,C02627,12887589,United Kingdom,Private Limited,Technology,Standard,N,36,4,2,Y,Y,Y,Match,Y,Y,51700,Y,Y,Referred to EDD
+BDD0806,C02630,13609548,India,Private Limited,Money Services,High,Y,37,4,3,Y,Y,Y,N/A (non-UK),Y,N,253600,Y,N,Satisfactory
+BDD0807,C02639,12428019,United Kingdom,Private Limited,Construction,Standard,N,38,2,4,Y,Y,N,Match,Y,Y,31700,Y,N,Satisfactory
+BDD0808,C02642,12381286,United Kingdom,Private Limited,Professional Services,Standard,N,1,1,2,Y,Y,N,Match,Y,Y,52600,Y,N,Satisfactory
+BDD0809,C02644,13333311,United Kingdom,Partnership,Real Estate,High,N,25,1,2,Y,Y,N,Match,Y,Y,19900,Y,N,Satisfactory
+BDD0810,C02646,15410236,United Kingdom,Private Limited,Technology,Standard,N,10,3,2,Y,Y,Y,Match,Y,Y,54600,Y,N,Satisfactory
+BDD0811,C02652,10460749,Ireland,LLP,Hospitality,Standard,Y,0,1,3,Y,N,N,N/A (non-UK),Y,Y,20300,Y,N,Satisfactory
+BDD0812,C02653,11696350,United Kingdom,LLP,Construction,Standard,N,2,4,2,Y,Y,Y,Match,Y,Y,131100,Y,N,Satisfactory
+BDD0813,C02655,11585483,India,Private Limited,Professional Services,Standard,N,5,2,3,Y,Y,N,N/A (non-UK),Y,N,11700,Y,N,Satisfactory
+BDD0814,C02656,13508642,Cyprus,Private Limited,Import/Export,High,N,16,2,2,Y,Y,Y,N/A (non-UK),Y,N,90100,Y,N,Satisfactory
+BDD0815,C02657,13475473,United Kingdom,Private Limited,Retail,Standard,Y,8,3,2,Y,Y,Y,Match,Y,Y,201300,Y,N,Satisfactory
+BDD0816,C02662,15435037,Russia,Private Limited,Hospitality,Standard,Y,3,1,3,Y,Y,N,N/A (non-UK),Y,Y,43000,N,N,Satisfactory
+BDD0817,C02666,10703664,Russia,Private Limited,Import/Export,High,N,14,2,1,Y,Y,N,N/A (non-UK),Y,N,29300,Y,N,Satisfactory
+BDD0818,C02669,14269623,Germany,Private Limited,Import/Export,High,N,19,1,2,Y,Y,N,N/A (non-UK),Y,N,25500,N,N,Satisfactory
+BDD0819,C02670,12461487,United Kingdom,Private Limited,Retail,Standard,Y,14,4,2,Y,Y,Y,Match,Y,Y,44800,Y,N,Satisfactory
+BDD0820,C02672,10398395,Panama,LLP,Retail,Standard,Y,25,1,4,Y,Y,Y,N/A (non-UK),Y,Y,14900,N,N,Satisfactory
+BDD0821,C02673,14965044,India,Partnership,Real Estate,High,N,7,1,3,Y,Y,N,N/A (non-UK),Y,Y,106800,Y,N,Satisfactory
+BDD0822,C02675,10034075,United Kingdom,Private Limited,Money Services,High,Y,12,1,4,Y,Y,N,Match,Y,N,144300,Y,N,Satisfactory
+BDD0823,C02689,15363047,United Kingdom,PLC,Technology,Standard,N,7,4,2,Y,N,Y,Match,Y,Y,75400,Y,N,Satisfactory
+BDD0824,C02691,11615748,United Kingdom,Private Limited,Real Estate,High,N,9,2,2,Y,Y,N,Match,Y,N,74200,N,N,Satisfactory
+BDD0825,C02693,11095590,United Kingdom,Private Limited,Precious Metals,High,Y,38,1,2,Y,Y,N,Match,Y,Y,66400,Y,N,Satisfactory
+BDD0826,C02694,11832967,Ireland,Private Limited,Real Estate,High,N,25,4,4,N,N,Y,N/A (non-UK),Y,Y,15300,Y,N,Rejected
+BDD0827,C02695,15667747,UAE,Partnership,Hospitality,Standard,Y,3,3,3,Y,N,Y,N/A (non-UK),Y,Y,48200,Y,N,Satisfactory
+BDD0828,C02700,14828820,UAE,Foundation,Retail,Standard,Y,6,3,2,Y,Y,Y,N/A (non-UK),Y,Y,276100,Y,N,Satisfactory
+BDD0829,C02701,12802208,United Kingdom,Private Limited,Technology,Standard,N,0,2,3,Y,N,N,Match,Y,N,35800,Y,N,Satisfactory
+BDD0830,C02708,12049051,France,Private Limited,Hospitality,Standard,Y,34,1,1,Y,Y,N,N/A (non-UK),Y,Y,17000,Y,N,Satisfactory
+BDD0831,C02712,10912385,United Kingdom,Private Limited,Real Estate,High,N,0,4,2,N,N,Y,Discrepancy,Y,Y,52800,Y,N,Rejected
+BDD0832,C02720,13185435,United Kingdom,Private Limited,Import/Export,High,N,3,1,4,Y,Y,N,Match,Y,N,322800,Y,N,Satisfactory
+BDD0833,C02724,14503363,United Kingdom,Private Limited,Real Estate,High,N,22,1,2,Y,Y,N,Match,Y,Y,119300,Y,N,Satisfactory
+BDD0834,C02725,10642076,United States,Private Limited,Money Services,High,Y,18,1,2,Y,Y,N,N/A (non-UK),Y,Y,24700,Y,N,Satisfactory
+BDD0835,C02726,10511731,Cyprus,LLP,Retail,Standard,Y,8,3,2,N,N,Y,N/A (non-UK),Y,Y,29200,Y,N,Rejected
+BDD0836,C02729,14625441,United Kingdom,Private Limited,Professional Services,Standard,N,18,4,1,Y,Y,Y,Match,Y,Y,134000,Y,N,Satisfactory
+BDD0837,C02730,14389775,United Kingdom,LLP,Money Services,High,Y,19,3,2,Y,Y,Y,Match,Y,Y,10000,N,N,Satisfactory
+BDD0838,C02734,12591647,United Kingdom,LLP,Crypto Assets,High,N,5,1,1,Y,Y,N,Match,Y,Y,182200,Y,N,Satisfactory
+BDD0839,C02741,14190434,United Kingdom,Trust,Import/Export,High,N,18,2,3,Y,Y,N,Match,Y,Y,22300,N,N,Satisfactory
+BDD0840,C02749,13056243,United Kingdom,Private Limited,Hospitality,Standard,Y,32,2,3,Y,Y,N,Match,Y,Y,19200,N,N,Satisfactory
+BDD0841,C02753,13824922,United States,Trust,Technology,Standard,N,36,4,2,Y,N,Y,N/A (non-UK),Y,Y,8900,Y,N,Satisfactory
+BDD0842,C02755,11165542,Ireland,LLP,Construction,Standard,N,24,4,1,N,N,Y,N/A (non-UK),Y,Y,252800,Y,N,Referred to EDD
+BDD0843,C02756,14966987,United Kingdom,LLP,Technology,Standard,N,6,1,4,Y,Y,N,Match,Y,N,99900,Y,N,Satisfactory
+BDD0844,C02759,14775758,United Kingdom,Private Limited,Hospitality,Standard,Y,31,4,3,Y,Y,Y,Discrepancy,Y,Y,23800,N,N,Remediation Required
+BDD0845,C02769,14937923,Germany,Private Limited,Construction,Standard,N,12,4,2,Y,Y,Y,N/A (non-UK),Y,Y,129200,Y,N,Satisfactory
+BDD0846,C02788,11003954,UAE,Private Limited,Retail,Standard,Y,6,1,4,Y,Y,Y,N/A (non-UK),Y,Y,26200,Y,N,Satisfactory
+BDD0847,C02792,12644711,United Kingdom,Private Limited,Professional Services,Standard,N,27,3,3,Y,Y,Y,Discrepancy,Y,Y,150100,Y,Y,Rejected
+BDD0848,C02795,11758385,United Kingdom,Trust,Professional Services,Standard,N,7,4,4,N,N,Y,Match,Y,N,32400,Y,N,Referred to EDD
+BDD0849,C02797,13097244,United Kingdom,Partnership,Real Estate,High,N,21,1,3,Y,Y,N,Match,Y,N,30800,N,N,Satisfactory
+BDD0850,C02802,12567127,Russia,Private Limited,Crypto Assets,High,N,20,1,4,Y,Y,N,N/A (non-UK),Y,N,23600,N,N,Satisfactory
+BDD0851,C02804,12506491,United Kingdom,Private Limited,Crypto Assets,High,N,23,4,2,Y,Y,Y,Match,Y,Y,117200,Y,N,Satisfactory
+BDD0852,C02807,15461864,United Kingdom,Private Limited,Real Estate,High,N,14,3,1,Y,Y,Y,Match,Y,Y,55100,Y,N,Satisfactory
+BDD0853,C02809,13680902,United Kingdom,Private Limited,Money Services,High,Y,18,3,4,N,N,Y,Match,Y,Y,19200,Y,N,Referred to EDD
+BDD0854,C02811,15776442,United Kingdom,Private Limited,Technology,Standard,N,4,1,3,Y,Y,N,Match,Y,Y,73000,Y,N,Satisfactory
+BDD0855,C02818,13135342,France,LLP,Professional Services,Standard,N,32,1,4,Y,Y,N,N/A (non-UK),Y,Y,156500,Y,N,Satisfactory
+BDD0856,C02820,14491294,United Kingdom,Private Limited,Professional Services,Standard,N,26,1,4,Y,Y,N,Discrepancy,Y,Y,48300,N,N,Remediation Required
+BDD0857,C02821,11778475,United Kingdom,Partnership,Professional Services,Standard,N,4,3,2,N,N,Y,Match,Y,Y,26300,Y,N,Rejected
+BDD0858,C02834,12827711,United Kingdom,Private Limited,Import/Export,High,N,32,3,1,Y,Y,Y,Match,Y,Y,37400,Y,N,Satisfactory
+BDD0859,C02841,12538526,Germany,Trust,Construction,Standard,N,38,3,1,Y,Y,Y,N/A (non-UK),Y,N,111000,Y,N,Satisfactory
+BDD0860,C02843,14594347,Pakistan,Partnership,Construction,Standard,N,30,2,4,Y,Y,N,N/A (non-UK),Y,N,10800,Y,N,Satisfactory
+BDD0861,C02848,13388850,United Kingdom,Private Limited,Money Services,High,Y,7,1,3,Y,Y,N,Match,Y,Y,46300,Y,N,Satisfactory
+BDD0862,C02849,11932804,United Kingdom,Partnership,Construction,Standard,N,27,4,3,Y,Y,Y,Match,Y,Y,47100,N,N,Satisfactory
+BDD0863,C02850,14800805,France,LLP,Crypto Assets,High,N,7,4,4,Y,Y,Y,N/A (non-UK),Y,Y,171100,Y,N,Satisfactory
+BDD0864,C02852,14762631,United Kingdom,Private Limited,Real Estate,High,N,31,1,4,Y,Y,N,Match,Y,N,380300,Y,N,Satisfactory
+BDD0865,C02854,10809381,France,Private Limited,Money Services,High,Y,9,3,4,Y,Y,Y,N/A (non-UK),Y,Y,88900,Y,N,Satisfactory
+BDD0866,C02860,12393650,Pakistan,Private Limited,Money Services,High,Y,36,1,2,Y,Y,N,N/A (non-UK),Y,Y,12500,Y,N,Satisfactory
+BDD0867,C02861,13373717,United Kingdom,Private Limited,Charity,Standard,N,29,3,3,Y,Y,Y,Match,Y,Y,21200,Y,N,Satisfactory
+BDD0868,C02862,15347057,United Kingdom,Private Limited,Technology,Standard,N,32,2,1,Y,Y,N,Match,Y,Y,58700,Y,N,Satisfactory
+BDD0869,C02874,15630510,Germany,Partnership,Charity,Standard,N,23,4,2,Y,Y,Y,N/A (non-UK),Y,Y,203200,Y,N,Satisfactory
+BDD0870,C02876,11496893,United Kingdom,Private Limited,Professional Services,Standard,N,4,3,4,N,N,Y,Match,Y,Y,59800,Y,N,Rejected
+BDD0871,C02878,12452132,United Kingdom,LLP,Retail,Standard,Y,4,2,2,Y,N,N,Match,Y,Y,24900,N,N,Satisfactory
+BDD0872,C02879,10870328,United Kingdom,Trust,Charity,Standard,N,32,1,2,Y,Y,N,Match,Y,Y,28800,N,N,Satisfactory
+BDD0873,C02880,10411040,India,Private Limited,Import/Export,High,N,34,2,3,Y,Y,N,N/A (non-UK),Y,Y,23600,Y,N,Satisfactory
+BDD0874,C02891,12017052,United Kingdom,Partnership,Professional Services,Standard,N,15,2,4,Y,Y,N,Match,Y,N,225800,Y,N,Satisfactory
+BDD0875,C02892,15097527,United Kingdom,Partnership,Precious Metals,High,Y,39,2,3,Y,Y,N,Match,Y,Y,20300,Y,N,Satisfactory
+BDD0876,C02899,12409410,Germany,Private Limited,Import/Export,High,N,11,1,1,Y,Y,N,N/A (non-UK),Y,N,101800,Y,N,Satisfactory
+BDD0877,C02901,11273409,United Kingdom,Private Limited,Technology,Standard,N,19,2,4,Y,Y,N,Match,Y,N,16800,Y,N,Satisfactory
+BDD0878,C02904,11453043,United Kingdom,Private Limited,Import/Export,High,N,17,1,2,Y,Y,N,Discrepancy,Y,Y,53500,Y,N,Remediation Required
+BDD0879,C02906,14184643,Pakistan,Trust,Technology,Standard,N,0,4,2,N,N,Y,N/A (non-UK),Y,Y,67300,Y,N,Rejected
+BDD0880,C02910,13300420,Russia,LLP,Technology,Standard,N,10,1,3,Y,Y,N,N/A (non-UK),Y,Y,48800,Y,N,Satisfactory
+BDD0881,C02912,12770551,United Kingdom,Private Limited,Construction,Standard,N,20,1,3,Y,Y,N,Discrepancy,Y,Y,55000,Y,N,Remediation Required
+BDD0882,C02913,12187683,Ireland,Private Limited,Retail,Standard,Y,0,1,4,Y,Y,N,N/A (non-UK),Y,Y,215000,N,N,Satisfactory
+BDD0883,C02916,15644918,Germany,Private Limited,Import/Export,High,N,23,1,1,Y,Y,N,N/A (non-UK),Y,Y,10300,Y,N,Satisfactory
+BDD0884,C02917,10847525,United Kingdom,Private Limited,Professional Services,Standard,N,20,1,2,Y,Y,N,Match,Y,Y,39700,Y,N,Satisfactory
+BDD0885,C02922,14643084,United Kingdom,Private Limited,Money Services,High,Y,7,4,2,Y,Y,Y,Match,Y,Y,84600,Y,N,Satisfactory
+BDD0886,C02928,15977483,Panama,Partnership,Retail,Standard,Y,21,2,3,Y,Y,Y,N/A (non-UK),Y,Y,310800,Y,N,Satisfactory
+BDD0887,C02931,14811816,United Kingdom,LLP,Money Services,High,Y,1,1,2,Y,Y,N,Match,Y,Y,154800,Y,N,Satisfactory
+BDD0888,C02935,13239538,United States,Partnership,Professional Services,Standard,N,25,1,2,Y,Y,N,N/A (non-UK),Y,Y,46800,Y,N,Satisfactory
+BDD0889,C02936,13605674,United Kingdom,Private Limited,Retail,Standard,Y,19,1,3,Y,Y,N,Match,Y,Y,36000,N,N,Satisfactory
+BDD0890,C02942,15132476,United Kingdom,Private Limited,Hospitality,Standard,Y,14,1,1,Y,Y,N,Match,Y,N,16900,N,N,Satisfactory
+BDD0891,C02943,10836500,United Kingdom,Private Limited,Construction,Standard,N,34,2,2,Y,Y,N,Match,Y,Y,31000,Y,N,Satisfactory
+BDD0892,C02945,14853193,United Kingdom,LLP,Professional Services,Standard,N,33,2,3,Y,Y,N,Match,Y,Y,74600,Y,N,Satisfactory
+BDD0893,C02946,11016894,France,Trust,Import/Export,High,N,9,1,2,Y,Y,N,N/A (non-UK),Y,Y,165900,Y,N,Satisfactory
+BDD0894,C02949,10872325,United Kingdom,Partnership,Technology,Standard,N,21,3,3,Y,Y,Y,Match,Y,Y,18100,Y,N,Satisfactory
+BDD0895,C02951,10265684,Ireland,Private Limited,Retail,Standard,Y,14,4,2,Y,Y,Y,N/A (non-UK),Y,Y,44200,Y,N,Satisfactory
+BDD0896,C02954,10618365,India,Private Limited,Technology,Standard,N,34,3,4,N,N,Y,N/A (non-UK),Y,N,83700,N,N,Rejected
+BDD0897,C02964,13776982,United Kingdom,Private Limited,Retail,Standard,Y,36,4,4,Y,Y,Y,Match,Y,N,51600,Y,N,Satisfactory
+BDD0898,C02969,10549566,United Kingdom,Private Limited,Professional Services,Standard,N,33,2,1,Y,Y,N,Match,Y,Y,187500,Y,N,Satisfactory
+BDD0899,C02972,14141712,United Kingdom,LLP,Import/Export,High,N,24,1,4,Y,Y,N,Match,Y,Y,417600,Y,N,Satisfactory
+BDD0900,C02973,10560978,United Kingdom,Private Limited,Retail,Standard,Y,39,2,1,Y,Y,N,Match,Y,Y,13200,Y,N,Satisfactory
+BDD0901,C02974,11235535,Nigeria,Partnership,Money Services,High,Y,22,1,4,Y,Y,N,N/A (non-UK),Y,Y,16900,Y,N,Satisfactory
+BDD0902,C02975,12183530,United Kingdom,Private Limited,Professional Services,Standard,N,25,1,3,Y,Y,N,Match,Y,Y,108800,Y,N,Satisfactory
+BDD0903,C02976,15154207,United Kingdom,Private Limited,Professional Services,Standard,N,13,1,1,Y,Y,N,Match,Y,N,78200,Y,N,Satisfactory
+BDD0904,C02984,10923576,France,PLC,Technology,Standard,N,28,2,2,Y,Y,N,N/A (non-UK),Y,Y,151800,N,N,Satisfactory
+BDD0905,C02985,12120956,United Kingdom,Partnership,Precious Metals,High,Y,38,3,4,N,N,Y,Match,Y,Y,88200,Y,N,Referred to EDD
+BDD0906,C02990,10649316,United Kingdom,Partnership,Hospitality,Standard,Y,22,3,3,N,N,Y,Match,Y,Y,36800,Y,N,Rejected
+BDD0907,C02991,11315027,United Kingdom,Private Limited,Import/Export,High,N,27,2,3,Y,Y,N,Match,Y,Y,111100,Y,N,Satisfactory
+BDD0908,C02992,13214017,Germany,Private Limited,Technology,Standard,N,11,2,1,Y,Y,N,N/A (non-UK),Y,Y,2600,Y,N,Satisfactory
+BDD0909,C02993,14505011,France,Private Limited,Professional Services,Standard,N,4,1,2,Y,Y,N,N/A (non-UK),Y,N,46200,Y,N,Satisfactory
+BDD0910,C02994,13152821,United Kingdom,Foundation,Retail,Standard,Y,15,3,4,Y,Y,Y,Match,Y,Y,44900,Y,N,Satisfactory
